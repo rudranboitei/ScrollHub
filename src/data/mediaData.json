@@ -1,0 +1,5612 @@
+{
+  "categories": [
+    {
+      "id": "movies-tv",
+      "name": "Movies & TV Shows",
+      "slug": "movies-tv",
+      "icon": "🎬",
+      "lucide": "Film",
+      "description": "Streaming sites for movies and TV shows, watch new releases, popular series, and classic titles.",
+      "gradient": "from-rose-500 via-red-500 to-amber-500",
+      "borderGlow": "hover:border-rose-500/50 hover:shadow-rose-500/10",
+      "count": 42,
+      "subcategories": [
+        "All"
+      ],
+      "items": [
+        {
+          "id": "movies-tv-1",
+          "name": "soap2night.cc",
+          "url": "https://hokejatv.com/redirect.php",
+          "domain": "hokejatv.com",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": true,
+          "popularity": 98
+        },
+        {
+          "id": "movies-tv-2",
+          "name": "ramoflix.net",
+          "url": "https://ramoflix.net/",
+          "domain": "ramoflix.net",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": true,
+          "popularity": 96
+        },
+        {
+          "id": "movies-tv-3",
+          "name": "doraby.com",
+          "url": "https://doraby.com",
+          "domain": "doraby.com",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": true,
+          "popularity": 95
+        },
+        {
+          "id": "movies-tv-4",
+          "name": "wmovies.org",
+          "url": "https://wmovies.org/",
+          "domain": "wmovies.org",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 93
+        },
+        {
+          "id": "movies-tv-5",
+          "name": "hydrahd.ws",
+          "url": "https://hydrahd.ws/",
+          "domain": "hydrahd.ws",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 92
+        },
+        {
+          "id": "movies-tv-6",
+          "name": "goojara.to",
+          "url": "https://ww1.goojara.to/",
+          "domain": "ww1.goojara.to",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 90
+        },
+        {
+          "id": "movies-tv-7",
+          "name": "7movies.in",
+          "url": "https://7movies.in/",
+          "domain": "7movies.in",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 89
+        },
+        {
+          "id": "movies-tv-8",
+          "name": "aether.ist",
+          "url": "https://aether.ist/",
+          "domain": "aether.ist",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 87
+        },
+        {
+          "id": "movies-tv-9",
+          "name": "fluxtv.cc",
+          "url": "https://fluxtv.cc/",
+          "domain": "fluxtv.cc",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 86
+        },
+        {
+          "id": "movies-tv-10",
+          "name": "flixer.su",
+          "url": "https://flixer.su/",
+          "domain": "flixer.su",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 84
+        },
+        {
+          "id": "movies-tv-11",
+          "name": "streamvaults.ru",
+          "url": "https://streamvaults.ru/",
+          "domain": "streamvaults.ru",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 83
+        },
+        {
+          "id": "movies-tv-12",
+          "name": "primeshows.org",
+          "url": "https://primeshows.org/",
+          "domain": "primeshows.org",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 81
+        },
+        {
+          "id": "movies-tv-13",
+          "name": "67movies.net",
+          "url": "https://67movies.net/",
+          "domain": "67movies.net",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 80
+        },
+        {
+          "id": "movies-tv-14",
+          "name": "shuttletv.su",
+          "url": "https://shuttletv.su/",
+          "domain": "shuttletv.su",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 78
+        },
+        {
+          "id": "movies-tv-15",
+          "name": "popcornmovies.ac",
+          "url": "https://popcornmovies.ac/",
+          "domain": "popcornmovies.ac",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 77
+        },
+        {
+          "id": "movies-tv-16",
+          "name": "rivestream.app",
+          "url": "https://www.rivestream.app/",
+          "domain": "rivestream.app",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 75
+        },
+        {
+          "id": "movies-tv-17",
+          "name": "stellar.gdn",
+          "url": "https://stellar.gdn/",
+          "domain": "stellar.gdn",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 74
+        },
+        {
+          "id": "movies-tv-18",
+          "name": "onionplay.st",
+          "url": "https://onionplay.st/",
+          "domain": "onionplay.st",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 72
+        },
+        {
+          "id": "movies-tv-19",
+          "name": "lookmovie2.to",
+          "url": "https://www.lookmovie2.to/",
+          "domain": "lookmovie2.to",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 71
+        },
+        {
+          "id": "movies-tv-20",
+          "name": "pressplayz.to",
+          "url": "https://pressplayz.to/",
+          "domain": "pressplayz.to",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 69
+        },
+        {
+          "id": "movies-tv-21",
+          "name": "nepu.io",
+          "url": "https://nepu.io/",
+          "domain": "nepu.io",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 68
+        },
+        {
+          "id": "movies-tv-22",
+          "name": "fmoviess.org",
+          "url": "https://fmoviess.org/",
+          "domain": "fmoviess.org",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 66
+        },
+        {
+          "id": "movies-tv-23",
+          "name": "soap2dayhd.net",
+          "url": "https://soap2dayhd.net/home/",
+          "domain": "soap2dayhd.net",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 65
+        },
+        {
+          "id": "movies-tv-24",
+          "name": "azmovies.to",
+          "url": "https://azmovies.to/",
+          "domain": "azmovies.to",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 63
+        },
+        {
+          "id": "movies-tv-25",
+          "name": "mapple.club",
+          "url": "https://mapple.club/",
+          "domain": "mapple.club",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 62
+        },
+        {
+          "id": "movies-tv-26",
+          "name": "streamex.sh",
+          "url": "https://streamex.sh/",
+          "domain": "streamex.sh",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 60
+        },
+        {
+          "id": "movies-tv-27",
+          "name": "opstream.fun",
+          "url": "https://opstream.fun/",
+          "domain": "opstream.fun",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 60
+        },
+        {
+          "id": "movies-tv-28",
+          "name": "latestmovies.net",
+          "url": "https://latestmovies.net/",
+          "domain": "latestmovies.net",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 60
+        },
+        {
+          "id": "movies-tv-29",
+          "name": "officialmoviebox.com",
+          "url": "https://officialmoviebox.com/",
+          "domain": "officialmoviebox.com",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 60
+        },
+        {
+          "id": "movies-tv-30",
+          "name": "hdtoday24.at",
+          "url": "https://hdtoday24.at/",
+          "domain": "hdtoday24.at",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 60
+        },
+        {
+          "id": "movies-tv-31",
+          "name": "cinebytv.com",
+          "url": "https://cinebytv.com/",
+          "domain": "cinebytv.com",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 60
+        },
+        {
+          "id": "movies-tv-32",
+          "name": "ridomovies.su",
+          "url": "https://ridomovies.su/",
+          "domain": "ridomovies.su",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 60
+        },
+        {
+          "id": "movies-tv-33",
+          "name": "123moviesfree.net",
+          "url": "https://ww7.123moviesfree.net/home/",
+          "domain": "ww7.123moviesfree.net",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 60
+        },
+        {
+          "id": "movies-tv-34",
+          "name": "willowmovies.com",
+          "url": "https://willowmovies.com/",
+          "domain": "willowmovies.com",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 60
+        },
+        {
+          "id": "movies-tv-35",
+          "name": "vidplay.top",
+          "url": "https://vidplay.top/",
+          "domain": "vidplay.top",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 60
+        },
+        {
+          "id": "movies-tv-36",
+          "name": "cinemaos.live",
+          "url": "https://cinemaos.live/",
+          "domain": "cinemaos.live",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 60
+        },
+        {
+          "id": "movies-tv-37",
+          "name": "yesmovies.ag",
+          "url": "https://ww.yesmovies.ag/",
+          "domain": "ww.yesmovies.ag",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 60
+        },
+        {
+          "id": "movies-tv-38",
+          "name": "anixtv.us.cc",
+          "url": "https://anixtv.us.cc/",
+          "domain": "anixtv.us.cc",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 60
+        },
+        {
+          "id": "movies-tv-39",
+          "name": "primewire.mov",
+          "url": "https://www.primewire.mov/home",
+          "domain": "primewire.mov",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 60
+        },
+        {
+          "id": "movies-tv-40",
+          "name": "moviepire.ru",
+          "url": "https://moviepire.ru/",
+          "domain": "moviepire.ru",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 60
+        },
+        {
+          "id": "movies-tv-41",
+          "name": "flicker-mini.pages.dev",
+          "url": "https://flicker-mini.pages.dev/",
+          "domain": "flicker-mini.pages.dev",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 60
+        },
+        {
+          "id": "movies-tv-42",
+          "name": "m4uhd.page",
+          "url": "https://ww1.m4uhd.page/",
+          "domain": "ww1.m4uhd.page",
+          "category": "movies-tv",
+          "categoryName": "Movies & TV Shows",
+          "categoryIcon": "🎬",
+          "subcategory": "All",
+          "tags": [
+            "Movies",
+            "TV Shows",
+            "Streaming"
+          ],
+          "featured": false,
+          "popularity": 60
+        }
+      ]
+    },
+    {
+      "id": "anime",
+      "name": "Anime",
+      "slug": "anime",
+      "icon": "🍥",
+      "lucide": "Tv",
+      "description": "Anime streaming and download sites featuring subbed and dubbed series, movies, and ongoing seasons.",
+      "gradient": "from-pink-500 via-purple-500 to-indigo-500",
+      "borderGlow": "hover:border-pink-500/50 hover:shadow-pink-500/10",
+      "count": 18,
+      "subcategories": [
+        "All"
+      ],
+      "items": [
+        {
+          "id": "anime-1",
+          "name": "anime.nexus",
+          "url": "https://anime.nexus/",
+          "domain": "anime.nexus",
+          "category": "anime",
+          "categoryName": "Anime",
+          "categoryIcon": "🍥",
+          "subcategory": "All",
+          "tags": [
+            "Anime",
+            "Subbed/Dubbed"
+          ],
+          "featured": true,
+          "popularity": 98
+        },
+        {
+          "id": "anime-2",
+          "name": "animekai.to",
+          "url": "https://animekai.to/home",
+          "domain": "animekai.to",
+          "category": "anime",
+          "categoryName": "Anime",
+          "categoryIcon": "🍥",
+          "subcategory": "All",
+          "tags": [
+            "Anime",
+            "Subbed/Dubbed"
+          ],
+          "featured": true,
+          "popularity": 96
+        },
+        {
+          "id": "anime-3",
+          "name": "anizone.to",
+          "url": "https://anizone.to/",
+          "domain": "anizone.to",
+          "category": "anime",
+          "categoryName": "Anime",
+          "categoryIcon": "🍥",
+          "subcategory": "All",
+          "tags": [
+            "Anime",
+            "Subbed/Dubbed"
+          ],
+          "featured": true,
+          "popularity": 95
+        },
+        {
+          "id": "anime-4",
+          "name": "miruro.to",
+          "url": "https://www.miruro.to/",
+          "domain": "miruro.to",
+          "category": "anime",
+          "categoryName": "Anime",
+          "categoryIcon": "🍥",
+          "subcategory": "All",
+          "tags": [
+            "Anime",
+            "Subbed/Dubbed"
+          ],
+          "featured": false,
+          "popularity": 93
+        },
+        {
+          "id": "anime-5",
+          "name": "anitaku.io",
+          "url": "https://anitaku.io/",
+          "domain": "anitaku.io",
+          "category": "anime",
+          "categoryName": "Anime",
+          "categoryIcon": "🍥",
+          "subcategory": "All",
+          "tags": [
+            "Anime",
+            "Subbed/Dubbed"
+          ],
+          "featured": false,
+          "popularity": 92
+        },
+        {
+          "id": "anime-6",
+          "name": "anikai.to",
+          "url": "https://anikai.to/",
+          "domain": "anikai.to",
+          "category": "anime",
+          "categoryName": "Anime",
+          "categoryIcon": "🍥",
+          "subcategory": "All",
+          "tags": [
+            "Anime",
+            "Subbed/Dubbed"
+          ],
+          "featured": false,
+          "popularity": 90
+        },
+        {
+          "id": "anime-7",
+          "name": "gogoanime.org.vc",
+          "url": "https://wvv.gogoanime.org.vc/",
+          "domain": "wvv.gogoanime.org.vc",
+          "category": "anime",
+          "categoryName": "Anime",
+          "categoryIcon": "🍥",
+          "subcategory": "All",
+          "tags": [
+            "Anime",
+            "Subbed/Dubbed"
+          ],
+          "featured": false,
+          "popularity": 89
+        },
+        {
+          "id": "anime-8",
+          "name": "yenime.net",
+          "url": "https://yenime.net/",
+          "domain": "yenime.net",
+          "category": "anime",
+          "categoryName": "Anime",
+          "categoryIcon": "🍥",
+          "subcategory": "All",
+          "tags": [
+            "Anime",
+            "Subbed/Dubbed"
+          ],
+          "featured": false,
+          "popularity": 87
+        },
+        {
+          "id": "anime-9",
+          "name": "kickass-anime.ro",
+          "url": "https://kickass-anime.ro/",
+          "domain": "kickass-anime.ro",
+          "category": "anime",
+          "categoryName": "Anime",
+          "categoryIcon": "🍥",
+          "subcategory": "All",
+          "tags": [
+            "Anime",
+            "Subbed/Dubbed"
+          ],
+          "featured": false,
+          "popularity": 86
+        },
+        {
+          "id": "anime-10",
+          "name": "animex.one",
+          "url": "https://animex.one/home",
+          "domain": "animex.one",
+          "category": "anime",
+          "categoryName": "Anime",
+          "categoryIcon": "🍥",
+          "subcategory": "All",
+          "tags": [
+            "Anime",
+            "Subbed/Dubbed"
+          ],
+          "featured": false,
+          "popularity": 84
+        },
+        {
+          "id": "anime-11",
+          "name": "animegg.org",
+          "url": "https://www.animegg.org/",
+          "domain": "animegg.org",
+          "category": "anime",
+          "categoryName": "Anime",
+          "categoryIcon": "🍥",
+          "subcategory": "All",
+          "tags": [
+            "Anime",
+            "Subbed/Dubbed"
+          ],
+          "featured": false,
+          "popularity": 83
+        },
+        {
+          "id": "anime-12",
+          "name": "animestream.net",
+          "url": "https://anime.uniquestream.net/",
+          "domain": "anime.uniquestream.net",
+          "category": "anime",
+          "categoryName": "Anime",
+          "categoryIcon": "🍥",
+          "subcategory": "All",
+          "tags": [
+            "Anime",
+            "Subbed/Dubbed"
+          ],
+          "featured": false,
+          "popularity": 81
+        },
+        {
+          "id": "anime-13",
+          "name": "kissanime.com.ru",
+          "url": "https://kissanime.com.ru/",
+          "domain": "kissanime.com.ru",
+          "category": "anime",
+          "categoryName": "Anime",
+          "categoryIcon": "🍥",
+          "subcategory": "All",
+          "tags": [
+            "Anime",
+            "Subbed/Dubbed"
+          ],
+          "featured": false,
+          "popularity": 80
+        },
+        {
+          "id": "anime-14",
+          "name": "allmanga.to",
+          "url": "https://allmanga.to/",
+          "domain": "allmanga.to",
+          "category": "anime",
+          "categoryName": "Anime",
+          "categoryIcon": "🍥",
+          "subcategory": "All",
+          "tags": [
+            "Anime",
+            "Subbed/Dubbed"
+          ],
+          "featured": false,
+          "popularity": 78
+        },
+        {
+          "id": "anime-15",
+          "name": "aniworld.to",
+          "url": "https://aniworld.to/",
+          "domain": "aniworld.to",
+          "category": "anime",
+          "categoryName": "Anime",
+          "categoryIcon": "🍥",
+          "subcategory": "All",
+          "tags": [
+            "Anime",
+            "Subbed/Dubbed"
+          ],
+          "featured": false,
+          "popularity": 77
+        },
+        {
+          "id": "anime-16",
+          "name": "wcostream.tv",
+          "url": "https://www.wcostream.tv/",
+          "domain": "wcostream.tv",
+          "category": "anime",
+          "categoryName": "Anime",
+          "categoryIcon": "🍥",
+          "subcategory": "All",
+          "tags": [
+            "Anime",
+            "Subbed/Dubbed"
+          ],
+          "featured": false,
+          "popularity": 75
+        },
+        {
+          "id": "anime-17",
+          "name": "justanime.to",
+          "url": "https://justanime.to/",
+          "domain": "justanime.to",
+          "category": "anime",
+          "categoryName": "Anime",
+          "categoryIcon": "🍥",
+          "subcategory": "All",
+          "tags": [
+            "Anime",
+            "Subbed/Dubbed"
+          ],
+          "featured": false,
+          "popularity": 74
+        },
+        {
+          "id": "anime-18",
+          "name": "123animes.ru",
+          "url": "https://w1.123animes.ru/",
+          "domain": "w1.123animes.ru",
+          "category": "anime",
+          "categoryName": "Anime",
+          "categoryIcon": "🍥",
+          "subcategory": "All",
+          "tags": [
+            "Anime",
+            "Subbed/Dubbed"
+          ],
+          "featured": false,
+          "popularity": 72
+        }
+      ]
+    },
+    {
+      "id": "manga",
+      "name": "Manga",
+      "slug": "manga",
+      "icon": "📖",
+      "lucide": "BookOpen",
+      "description": "Manga reading sites with regularly updated chapters across all major genres.",
+      "gradient": "from-emerald-500 via-teal-500 to-cyan-500",
+      "borderGlow": "hover:border-emerald-500/50 hover:shadow-emerald-500/10",
+      "count": 10,
+      "subcategories": [
+        "All"
+      ],
+      "items": [
+        {
+          "id": "manga-1",
+          "name": "comix.to",
+          "url": "https://comix.to/",
+          "domain": "comix.to",
+          "category": "manga",
+          "categoryName": "Manga",
+          "categoryIcon": "📖",
+          "subcategory": "All",
+          "tags": [
+            "Manga",
+            "Reader"
+          ],
+          "featured": true,
+          "popularity": 98
+        },
+        {
+          "id": "manga-2",
+          "name": "mangafire.to",
+          "url": "https://mangafire.to/home",
+          "domain": "mangafire.to",
+          "category": "manga",
+          "categoryName": "Manga",
+          "categoryIcon": "📖",
+          "subcategory": "All",
+          "tags": [
+            "Manga",
+            "Reader"
+          ],
+          "featured": true,
+          "popularity": 96
+        },
+        {
+          "id": "manga-3",
+          "name": "mangahaven.net",
+          "url": "https://mangahaven.net/",
+          "domain": "mangahaven.net",
+          "category": "manga",
+          "categoryName": "Manga",
+          "categoryIcon": "📖",
+          "subcategory": "All",
+          "tags": [
+            "Manga",
+            "Reader"
+          ],
+          "featured": true,
+          "popularity": 95
+        },
+        {
+          "id": "manga-4",
+          "name": "mangataro.org",
+          "url": "https://mangataro.org/",
+          "domain": "mangataro.org",
+          "category": "manga",
+          "categoryName": "Manga",
+          "categoryIcon": "📖",
+          "subcategory": "All",
+          "tags": [
+            "Manga",
+            "Reader"
+          ],
+          "featured": false,
+          "popularity": 93
+        },
+        {
+          "id": "manga-5",
+          "name": "mangadex.org",
+          "url": "https://mangadex.org/",
+          "domain": "mangadex.org",
+          "category": "manga",
+          "categoryName": "Manga",
+          "categoryIcon": "📖",
+          "subcategory": "All",
+          "tags": [
+            "Manga",
+            "Reader"
+          ],
+          "featured": false,
+          "popularity": 92
+        },
+        {
+          "id": "manga-6",
+          "name": "allmanga.to",
+          "url": "https://allmanga.to/manga",
+          "domain": "allmanga.to",
+          "category": "manga",
+          "categoryName": "Manga",
+          "categoryIcon": "📖",
+          "subcategory": "All",
+          "tags": [
+            "Manga",
+            "Reader"
+          ],
+          "featured": false,
+          "popularity": 90
+        },
+        {
+          "id": "manga-7",
+          "name": "mangago.me",
+          "url": "https://mangago.me/",
+          "domain": "mangago.me",
+          "category": "manga",
+          "categoryName": "Manga",
+          "categoryIcon": "📖",
+          "subcategory": "All",
+          "tags": [
+            "Manga",
+            "Reader"
+          ],
+          "featured": false,
+          "popularity": 89
+        },
+        {
+          "id": "manga-8",
+          "name": "weebcentral.com",
+          "url": "https://weebcentral.com/",
+          "domain": "weebcentral.com",
+          "category": "manga",
+          "categoryName": "Manga",
+          "categoryIcon": "📖",
+          "subcategory": "All",
+          "tags": [
+            "Manga",
+            "Reader"
+          ],
+          "featured": false,
+          "popularity": 87
+        },
+        {
+          "id": "manga-9",
+          "name": "manganato.gg",
+          "url": "https://www.manganato.gg/",
+          "domain": "manganato.gg",
+          "category": "manga",
+          "categoryName": "Manga",
+          "categoryIcon": "📖",
+          "subcategory": "All",
+          "tags": [
+            "Manga",
+            "Reader"
+          ],
+          "featured": false,
+          "popularity": 86
+        },
+        {
+          "id": "manga-10",
+          "name": "kagane.org",
+          "url": "https://kagane.org/",
+          "domain": "kagane.org",
+          "category": "manga",
+          "categoryName": "Manga",
+          "categoryIcon": "📖",
+          "subcategory": "All",
+          "tags": [
+            "Manga",
+            "Reader"
+          ],
+          "featured": false,
+          "popularity": 84
+        }
+      ]
+    },
+    {
+      "id": "live-sports",
+      "name": "Live Sports",
+      "slug": "live-sports",
+      "icon": "⚽",
+      "lucide": "Trophy",
+      "description": "Live sports streaming sites covering football, basketball, MMA, boxing, and more.",
+      "gradient": "from-blue-500 via-indigo-500 to-violet-500",
+      "borderGlow": "hover:border-blue-500/50 hover:shadow-blue-500/10",
+      "count": 19,
+      "subcategories": [
+        "All"
+      ],
+      "items": [
+        {
+          "id": "live-sports-1",
+          "name": "streameast.gk",
+          "url": "https://hai8g.com/4/11158480",
+          "domain": "hai8g.com",
+          "category": "live-sports",
+          "categoryName": "Live Sports",
+          "categoryIcon": "⚽",
+          "subcategory": "All",
+          "tags": [
+            "Sports",
+            "Live Stream"
+          ],
+          "featured": true,
+          "popularity": 98
+        },
+        {
+          "id": "live-sports-2",
+          "name": "livetv.sx",
+          "url": "https://livetv.sx/enx/",
+          "domain": "livetv.sx",
+          "category": "live-sports",
+          "categoryName": "Live Sports",
+          "categoryIcon": "⚽",
+          "subcategory": "All",
+          "tags": [
+            "Sports",
+            "Live Stream"
+          ],
+          "featured": true,
+          "popularity": 96
+        },
+        {
+          "id": "live-sports-3",
+          "name": "streamsports99.su",
+          "url": "https://streamsports99.su/",
+          "domain": "streamsports99.su",
+          "category": "live-sports",
+          "categoryName": "Live Sports",
+          "categoryIcon": "⚽",
+          "subcategory": "All",
+          "tags": [
+            "Sports",
+            "Live Stream"
+          ],
+          "featured": true,
+          "popularity": 95
+        },
+        {
+          "id": "live-sports-4",
+          "name": "streamed.pk",
+          "url": "https://streamed.pk/",
+          "domain": "streamed.pk",
+          "category": "live-sports",
+          "categoryName": "Live Sports",
+          "categoryIcon": "⚽",
+          "subcategory": "All",
+          "tags": [
+            "Sports",
+            "Live Stream"
+          ],
+          "featured": false,
+          "popularity": 93
+        },
+        {
+          "id": "live-sports-5",
+          "name": "ntv.cx",
+          "url": "https://ntv.cx/",
+          "domain": "ntv.cx",
+          "category": "live-sports",
+          "categoryName": "Live Sports",
+          "categoryIcon": "⚽",
+          "subcategory": "All",
+          "tags": [
+            "Sports",
+            "Live Stream"
+          ],
+          "featured": false,
+          "popularity": 92
+        },
+        {
+          "id": "live-sports-6",
+          "name": "streameast.ga",
+          "url": "https://v2.streameast.ga/",
+          "domain": "v2.streameast.ga",
+          "category": "live-sports",
+          "categoryName": "Live Sports",
+          "categoryIcon": "⚽",
+          "subcategory": "All",
+          "tags": [
+            "Sports",
+            "Live Stream"
+          ],
+          "featured": false,
+          "popularity": 90
+        },
+        {
+          "id": "live-sports-7",
+          "name": "fctv33.hair",
+          "url": "https://www.fctv33.hair/",
+          "domain": "fctv33.hair",
+          "category": "live-sports",
+          "categoryName": "Live Sports",
+          "categoryIcon": "⚽",
+          "subcategory": "All",
+          "tags": [
+            "Sports",
+            "Live Stream"
+          ],
+          "featured": false,
+          "popularity": 89
+        },
+        {
+          "id": "live-sports-8",
+          "name": "methstreams.ms",
+          "url": "https://methstreams.ms/",
+          "domain": "methstreams.ms",
+          "category": "live-sports",
+          "categoryName": "Live Sports",
+          "categoryIcon": "⚽",
+          "subcategory": "All",
+          "tags": [
+            "Sports",
+            "Live Stream"
+          ],
+          "featured": false,
+          "popularity": 87
+        },
+        {
+          "id": "live-sports-9",
+          "name": "streamfree.top",
+          "url": "https://streamfree.top/",
+          "domain": "streamfree.top",
+          "category": "live-sports",
+          "categoryName": "Live Sports",
+          "categoryIcon": "⚽",
+          "subcategory": "All",
+          "tags": [
+            "Sports",
+            "Live Stream"
+          ],
+          "featured": false,
+          "popularity": 86
+        },
+        {
+          "id": "live-sports-10",
+          "name": "bintv.cc",
+          "url": "https://www.bintv.cc/",
+          "domain": "bintv.cc",
+          "category": "live-sports",
+          "categoryName": "Live Sports",
+          "categoryIcon": "⚽",
+          "subcategory": "All",
+          "tags": [
+            "Sports",
+            "Live Stream"
+          ],
+          "featured": false,
+          "popularity": 84
+        },
+        {
+          "id": "live-sports-11",
+          "name": "sportyhunter.xyz",
+          "url": "https://sportyhunter.xyz/",
+          "domain": "sportyhunter.xyz",
+          "category": "live-sports",
+          "categoryName": "Live Sports",
+          "categoryIcon": "⚽",
+          "subcategory": "All",
+          "tags": [
+            "Sports",
+            "Live Stream"
+          ],
+          "featured": false,
+          "popularity": 83
+        },
+        {
+          "id": "live-sports-12",
+          "name": "roxiestreams.su",
+          "url": "https://roxiestreams.su/",
+          "domain": "roxiestreams.su",
+          "category": "live-sports",
+          "categoryName": "Live Sports",
+          "categoryIcon": "⚽",
+          "subcategory": "All",
+          "tags": [
+            "Sports",
+            "Live Stream"
+          ],
+          "featured": false,
+          "popularity": 81
+        },
+        {
+          "id": "live-sports-13",
+          "name": "onhockey.tv",
+          "url": "http://onhockey.tv/",
+          "domain": "onhockey.tv",
+          "category": "live-sports",
+          "categoryName": "Live Sports",
+          "categoryIcon": "⚽",
+          "subcategory": "All",
+          "tags": [
+            "Sports",
+            "Live Stream"
+          ],
+          "featured": false,
+          "popularity": 80
+        },
+        {
+          "id": "live-sports-14",
+          "name": "crackstreams.io",
+          "url": "https://crackstreams.io/",
+          "domain": "crackstreams.io",
+          "category": "live-sports",
+          "categoryName": "Live Sports",
+          "categoryIcon": "⚽",
+          "subcategory": "All",
+          "tags": [
+            "Sports",
+            "Live Stream"
+          ],
+          "featured": false,
+          "popularity": 78
+        },
+        {
+          "id": "live-sports-15",
+          "name": "score808hd.tv",
+          "url": "https://a1.score808hd.tv/",
+          "domain": "a1.score808hd.tv",
+          "category": "live-sports",
+          "categoryName": "Live Sports",
+          "categoryIcon": "⚽",
+          "subcategory": "All",
+          "tags": [
+            "Sports",
+            "Live Stream"
+          ],
+          "featured": false,
+          "popularity": 77
+        },
+        {
+          "id": "live-sports-16",
+          "name": "timstreams.st",
+          "url": "https://timstreams.st/",
+          "domain": "timstreams.st",
+          "category": "live-sports",
+          "categoryName": "Live Sports",
+          "categoryIcon": "⚽",
+          "subcategory": "All",
+          "tags": [
+            "Sports",
+            "Live Stream"
+          ],
+          "featured": false,
+          "popularity": 75
+        },
+        {
+          "id": "live-sports-17",
+          "name": "strikeout.im",
+          "url": "https://strikeout.im/",
+          "domain": "strikeout.im",
+          "category": "live-sports",
+          "categoryName": "Live Sports",
+          "categoryIcon": "⚽",
+          "subcategory": "All",
+          "tags": [
+            "Sports",
+            "Live Stream"
+          ],
+          "featured": false,
+          "popularity": 74
+        },
+        {
+          "id": "live-sports-18",
+          "name": "watchfooty.st",
+          "url": "https://www.watchfooty.st/en",
+          "domain": "watchfooty.st",
+          "category": "live-sports",
+          "categoryName": "Live Sports",
+          "categoryIcon": "⚽",
+          "subcategory": "All",
+          "tags": [
+            "Sports",
+            "Live Stream"
+          ],
+          "featured": false,
+          "popularity": 72
+        },
+        {
+          "id": "live-sports-19",
+          "name": "sportsurge.net",
+          "url": "https://v2.sportsurge.net/",
+          "domain": "v2.sportsurge.net",
+          "category": "live-sports",
+          "categoryName": "Live Sports",
+          "categoryIcon": "⚽",
+          "subcategory": "All",
+          "tags": [
+            "Sports",
+            "Live Stream"
+          ],
+          "featured": false,
+          "popularity": 71
+        }
+      ]
+    },
+    {
+      "id": "live-tv",
+      "name": "Live TV",
+      "slug": "live-tv",
+      "icon": "📺",
+      "lucide": "Radio",
+      "description": "Live TV streaming sites offering news, entertainment, and international channels.",
+      "gradient": "from-cyan-500 via-blue-500 to-sky-400",
+      "borderGlow": "hover:border-cyan-500/50 hover:shadow-cyan-500/10",
+      "count": 8,
+      "subcategories": [
+        "All"
+      ],
+      "items": [
+        {
+          "id": "live-tv-1",
+          "name": "famelack.com",
+          "url": "https://famelack.com/",
+          "domain": "famelack.com",
+          "category": "live-tv",
+          "categoryName": "Live TV",
+          "categoryIcon": "📺",
+          "subcategory": "All",
+          "notes": "Blocked for some countries",
+          "tags": [
+            "IPTV",
+            "Channels"
+          ],
+          "featured": true,
+          "popularity": 98
+        },
+        {
+          "id": "live-tv-2",
+          "name": "streamsports99.su",
+          "url": "https://streamsports99.su/live-tv",
+          "domain": "streamsports99.su",
+          "category": "live-tv",
+          "categoryName": "Live TV",
+          "categoryIcon": "📺",
+          "subcategory": "All",
+          "tags": [
+            "IPTV",
+            "Channels"
+          ],
+          "featured": true,
+          "popularity": 96
+        },
+        {
+          "id": "live-tv-3",
+          "name": "globetv.app",
+          "url": "https://globetv.app/",
+          "domain": "globetv.app",
+          "category": "live-tv",
+          "categoryName": "Live TV",
+          "categoryIcon": "📺",
+          "subcategory": "All",
+          "tags": [
+            "IPTV",
+            "Channels"
+          ],
+          "featured": true,
+          "popularity": 95
+        },
+        {
+          "id": "live-tv-4",
+          "name": "daddylive.st",
+          "url": "https://dlhd.st//24-7-channels.php",
+          "domain": "dlhd.st",
+          "category": "live-tv",
+          "categoryName": "Live TV",
+          "categoryIcon": "📺",
+          "subcategory": "All",
+          "tags": [
+            "IPTV",
+            "Channels"
+          ],
+          "featured": false,
+          "popularity": 93
+        },
+        {
+          "id": "live-tv-5",
+          "name": "tv247us.live",
+          "url": "https://tv247us.live/",
+          "domain": "tv247us.live",
+          "category": "live-tv",
+          "categoryName": "Live TV",
+          "categoryIcon": "📺",
+          "subcategory": "All",
+          "tags": [
+            "IPTV",
+            "Channels"
+          ],
+          "featured": false,
+          "popularity": 92
+        },
+        {
+          "id": "live-tv-6",
+          "name": "ntv.cx",
+          "url": "https://ntv.cx/",
+          "domain": "ntv.cx",
+          "category": "live-tv",
+          "categoryName": "Live TV",
+          "categoryIcon": "📺",
+          "subcategory": "All",
+          "tags": [
+            "IPTV",
+            "Channels"
+          ],
+          "featured": false,
+          "popularity": 90
+        },
+        {
+          "id": "live-tv-7",
+          "name": "iptv-web.app",
+          "url": "https://iptv-web.app/",
+          "domain": "iptv-web.app",
+          "category": "live-tv",
+          "categoryName": "Live TV",
+          "categoryIcon": "📺",
+          "subcategory": "All",
+          "tags": [
+            "IPTV",
+            "Channels"
+          ],
+          "featured": false,
+          "popularity": 89
+        },
+        {
+          "id": "live-tv-8",
+          "name": "publiciptv.com",
+          "url": "https://publiciptv.com/",
+          "domain": "publiciptv.com",
+          "category": "live-tv",
+          "categoryName": "Live TV",
+          "categoryIcon": "📺",
+          "subcategory": "All",
+          "tags": [
+            "IPTV",
+            "Channels"
+          ],
+          "featured": false,
+          "popularity": 87
+        }
+      ]
+    },
+    {
+      "id": "torrents",
+      "name": "Torrents",
+      "slug": "torrents",
+      "icon": "🧲",
+      "lucide": "Magnet",
+      "description": "Torrent sites and trackers for free downloads of movies, TV shows, games, software, and more.",
+      "gradient": "from-amber-500 via-orange-500 to-red-500",
+      "borderGlow": "hover:border-amber-500/50 hover:shadow-amber-500/10",
+      "count": 10,
+      "subcategories": [
+        "All"
+      ],
+      "items": [
+        {
+          "id": "torrents-1",
+          "name": "1337x.to",
+          "url": "https://1337x.to/",
+          "domain": "1337x.to",
+          "category": "torrents",
+          "categoryName": "Torrents",
+          "categoryIcon": "🧲",
+          "subcategory": "All",
+          "tags": [
+            "P2P",
+            "Trackers"
+          ],
+          "featured": true,
+          "popularity": 98
+        },
+        {
+          "id": "torrents-2",
+          "name": "rutracker.org",
+          "url": "https://rutracker.org/forum/index.php",
+          "domain": "rutracker.org",
+          "category": "torrents",
+          "categoryName": "Torrents",
+          "categoryIcon": "🧲",
+          "subcategory": "All",
+          "tags": [
+            "P2P",
+            "Trackers"
+          ],
+          "featured": true,
+          "popularity": 96
+        },
+        {
+          "id": "torrents-3",
+          "name": "limetorrents.fun",
+          "url": "https://www.limetorrents.fun/",
+          "domain": "limetorrents.fun",
+          "category": "torrents",
+          "categoryName": "Torrents",
+          "categoryIcon": "🧲",
+          "subcategory": "All",
+          "tags": [
+            "P2P",
+            "Trackers"
+          ],
+          "featured": true,
+          "popularity": 95
+        },
+        {
+          "id": "torrents-4",
+          "name": "yts.bz",
+          "url": "https://yts.bz/",
+          "domain": "yts.bz",
+          "category": "torrents",
+          "categoryName": "Torrents",
+          "categoryIcon": "🧲",
+          "subcategory": "All",
+          "notes": "Movies",
+          "tags": [
+            "P2P",
+            "Trackers"
+          ],
+          "featured": false,
+          "popularity": 93
+        },
+        {
+          "id": "torrents-5",
+          "name": "eztvx.to",
+          "url": "https://eztvx.to/home",
+          "domain": "eztvx.to",
+          "category": "torrents",
+          "categoryName": "Torrents",
+          "categoryIcon": "🧲",
+          "subcategory": "All",
+          "notes": "TV Shows",
+          "tags": [
+            "P2P",
+            "Trackers"
+          ],
+          "featured": false,
+          "popularity": 92
+        },
+        {
+          "id": "torrents-6",
+          "name": "torrentgalaxy.one",
+          "url": "https://torrentgalaxy.one/",
+          "domain": "torrentgalaxy.one",
+          "category": "torrents",
+          "categoryName": "Torrents",
+          "categoryIcon": "🧲",
+          "subcategory": "All",
+          "tags": [
+            "P2P",
+            "Trackers"
+          ],
+          "featured": false,
+          "popularity": 90
+        },
+        {
+          "id": "torrents-7",
+          "name": "extratorrent.st",
+          "url": "https://extratorrent.st/",
+          "domain": "extratorrent.st",
+          "category": "torrents",
+          "categoryName": "Torrents",
+          "categoryIcon": "🧲",
+          "subcategory": "All",
+          "tags": [
+            "P2P",
+            "Trackers"
+          ],
+          "featured": false,
+          "popularity": 89
+        },
+        {
+          "id": "torrents-8",
+          "name": "ext.to",
+          "url": "https://ext.to/",
+          "domain": "ext.to",
+          "category": "torrents",
+          "categoryName": "Torrents",
+          "categoryIcon": "🧲",
+          "subcategory": "All",
+          "tags": [
+            "P2P",
+            "Trackers"
+          ],
+          "featured": false,
+          "popularity": 87
+        },
+        {
+          "id": "torrents-9",
+          "name": "rargb.to",
+          "url": "https://rargb.to/",
+          "domain": "rargb.to",
+          "category": "torrents",
+          "categoryName": "Torrents",
+          "categoryIcon": "🧲",
+          "subcategory": "All",
+          "tags": [
+            "P2P",
+            "Trackers"
+          ],
+          "featured": false,
+          "popularity": 86
+        },
+        {
+          "id": "torrents-10",
+          "name": "thepiratebay.org",
+          "url": "https://thepiratebay.org/index.html",
+          "domain": "thepiratebay.org",
+          "category": "torrents",
+          "categoryName": "Torrents",
+          "categoryIcon": "🧲",
+          "subcategory": "All",
+          "notes": "Use at your own risk",
+          "tags": [
+            "P2P",
+            "Trackers"
+          ],
+          "featured": false,
+          "popularity": 84
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "name": "Games",
+      "slug": "games",
+      "icon": "🎮",
+      "lucide": "Gamepad2",
+      "description": "Game download sites for PC and consoles, including indie, AAA, and retro games.",
+      "gradient": "from-purple-500 via-violet-500 to-fuchsia-500",
+      "borderGlow": "hover:border-purple-500/50 hover:shadow-purple-500/10",
+      "count": 8,
+      "subcategories": [
+        "All"
+      ],
+      "items": [
+        {
+          "id": "games-1",
+          "name": "fitgirl-repacks.site",
+          "url": "https://fitgirl-repacks.site/",
+          "domain": "fitgirl-repacks.site",
+          "category": "games",
+          "categoryName": "Games",
+          "categoryIcon": "🎮",
+          "subcategory": "All",
+          "tags": [
+            "PC",
+            "Repacks"
+          ],
+          "featured": true,
+          "popularity": 98
+        },
+        {
+          "id": "games-2",
+          "name": "dodi-repacks.site",
+          "url": "https://dodi-repacks.site/",
+          "domain": "dodi-repacks.site",
+          "category": "games",
+          "categoryName": "Games",
+          "categoryIcon": "🎮",
+          "subcategory": "All",
+          "tags": [
+            "PC",
+            "Repacks"
+          ],
+          "featured": true,
+          "popularity": 96
+        },
+        {
+          "id": "games-3",
+          "name": "ankergames.net",
+          "url": "https://ankergames.net/",
+          "domain": "ankergames.net",
+          "category": "games",
+          "categoryName": "Games",
+          "categoryIcon": "🎮",
+          "subcategory": "All",
+          "tags": [
+            "PC",
+            "Repacks"
+          ],
+          "featured": true,
+          "popularity": 95
+        },
+        {
+          "id": "games-4",
+          "name": "g4u.to",
+          "url": "https://g4u.to/",
+          "domain": "g4u.to",
+          "category": "games",
+          "categoryName": "Games",
+          "categoryIcon": "🎮",
+          "subcategory": "All",
+          "tags": [
+            "PC",
+            "Repacks"
+          ],
+          "featured": false,
+          "popularity": 93
+        },
+        {
+          "id": "games-5",
+          "name": "steamrip.com",
+          "url": "https://steamrip.com/",
+          "domain": "steamrip.com",
+          "category": "games",
+          "categoryName": "Games",
+          "categoryIcon": "🎮",
+          "subcategory": "All",
+          "tags": [
+            "PC",
+            "Repacks"
+          ],
+          "featured": false,
+          "popularity": 92
+        },
+        {
+          "id": "games-6",
+          "name": "steamgg.net",
+          "url": "https://steamgg.net/",
+          "domain": "steamgg.net",
+          "category": "games",
+          "categoryName": "Games",
+          "categoryIcon": "🎮",
+          "subcategory": "All",
+          "tags": [
+            "PC",
+            "Repacks"
+          ],
+          "featured": false,
+          "popularity": 90
+        },
+        {
+          "id": "games-7",
+          "name": "m4ckd0ge-repacks.site",
+          "url": "https://m4ckd0ge-repacks.site/",
+          "domain": "m4ckd0ge-repacks.site",
+          "category": "games",
+          "categoryName": "Games",
+          "categoryIcon": "🎮",
+          "subcategory": "All",
+          "tags": [
+            "PC",
+            "Repacks"
+          ],
+          "featured": false,
+          "popularity": 89
+        },
+        {
+          "id": "games-8",
+          "name": "gload.to",
+          "url": "https://gload.to/",
+          "domain": "gload.to",
+          "category": "games",
+          "categoryName": "Games",
+          "categoryIcon": "🎮",
+          "subcategory": "All",
+          "tags": [
+            "PC",
+            "Repacks"
+          ],
+          "featured": false,
+          "popularity": 87
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "name": "Music",
+      "slug": "music",
+      "icon": "🎵",
+      "lucide": "Music",
+      "description": "Music streaming and download sites with albums, singles, and curated playlists.",
+      "gradient": "from-fuchsia-500 via-pink-500 to-rose-400",
+      "borderGlow": "hover:border-fuchsia-500/50 hover:shadow-fuchsia-500/10",
+      "count": 13,
+      "subcategories": [
+        "All",
+        "Spotify",
+        "Youtube",
+        "Multiple",
+        "Software"
+      ],
+      "items": [
+        {
+          "id": "music-1",
+          "name": "spotdownloader.com",
+          "url": "https://spotdownloader.com/",
+          "domain": "spotdownloader.com",
+          "category": "music",
+          "categoryName": "Music",
+          "categoryIcon": "🎵",
+          "subcategory": "Spotify",
+          "tags": [
+            "Music",
+            "Download",
+            "Spotify"
+          ],
+          "featured": true,
+          "popularity": 98
+        },
+        {
+          "id": "music-2",
+          "name": "spotifymate.com",
+          "url": "https://spotifymate.com/en",
+          "domain": "spotifymate.com",
+          "category": "music",
+          "categoryName": "Music",
+          "categoryIcon": "🎵",
+          "subcategory": "Spotify",
+          "tags": [
+            "Music",
+            "Download",
+            "Spotify"
+          ],
+          "featured": true,
+          "popularity": 96
+        },
+        {
+          "id": "music-3",
+          "name": "spotmate.online",
+          "url": "https://spotmate.online/",
+          "domain": "spotmate.online",
+          "category": "music",
+          "categoryName": "Music",
+          "categoryIcon": "🎵",
+          "subcategory": "Spotify",
+          "tags": [
+            "Music",
+            "Download",
+            "Spotify"
+          ],
+          "featured": true,
+          "popularity": 95
+        },
+        {
+          "id": "music-4",
+          "name": "y2mate.nu",
+          "url": "https://v1.y2mate.nu/",
+          "domain": "v1.y2mate.nu",
+          "category": "music",
+          "categoryName": "Music",
+          "categoryIcon": "🎵",
+          "subcategory": "Youtube",
+          "tags": [
+            "Music",
+            "Download",
+            "Youtube"
+          ],
+          "featured": false,
+          "popularity": 93
+        },
+        {
+          "id": "music-5",
+          "name": "azmp3.cc",
+          "url": "https://azmp3.cc/",
+          "domain": "azmp3.cc",
+          "category": "music",
+          "categoryName": "Music",
+          "categoryIcon": "🎵",
+          "subcategory": "Youtube",
+          "tags": [
+            "Music",
+            "Download",
+            "Youtube"
+          ],
+          "featured": false,
+          "popularity": 92
+        },
+        {
+          "id": "music-6",
+          "name": "ytmp3.cc",
+          "url": "https://ytmp3.cc/",
+          "domain": "ytmp3.cc",
+          "category": "music",
+          "categoryName": "Music",
+          "categoryIcon": "🎵",
+          "subcategory": "Youtube",
+          "tags": [
+            "Music",
+            "Download",
+            "Youtube"
+          ],
+          "featured": false,
+          "popularity": 90
+        },
+        {
+          "id": "music-7",
+          "name": "racoon",
+          "url": "https://shailendramaurya.github.io/racoon/",
+          "domain": "shailendramaurya.github.io",
+          "category": "music",
+          "categoryName": "Music",
+          "categoryIcon": "🎵",
+          "subcategory": "Multiple",
+          "tags": [
+            "Music",
+            "Download",
+            "Multiple"
+          ],
+          "featured": false,
+          "popularity": 89
+        },
+        {
+          "id": "music-8",
+          "name": "ytiz.xyz",
+          "url": "https://ytiz.xyz/",
+          "domain": "ytiz.xyz",
+          "category": "music",
+          "categoryName": "Music",
+          "categoryIcon": "🎵",
+          "subcategory": "Multiple",
+          "tags": [
+            "Music",
+            "Download",
+            "Multiple"
+          ],
+          "featured": false,
+          "popularity": 87
+        },
+        {
+          "id": "music-9",
+          "name": "lucida.to",
+          "url": "https://lucida.to/",
+          "domain": "lucida.to",
+          "category": "music",
+          "categoryName": "Music",
+          "categoryIcon": "🎵",
+          "subcategory": "Multiple",
+          "tags": [
+            "Music",
+            "Download",
+            "Multiple"
+          ],
+          "featured": false,
+          "popularity": 86
+        },
+        {
+          "id": "music-10",
+          "name": "cobalt.tools",
+          "url": "#",
+          "domain": "#",
+          "category": "music",
+          "categoryName": "Music",
+          "categoryIcon": "🎵",
+          "subcategory": "Multiple",
+          "tags": [
+            "Music",
+            "Download",
+            "Multiple"
+          ],
+          "featured": false,
+          "popularity": 84
+        },
+        {
+          "id": "music-11",
+          "name": "slsknet.org",
+          "url": "https://www.slsknet.org/",
+          "domain": "slsknet.org",
+          "category": "music",
+          "categoryName": "Music",
+          "categoryIcon": "🎵",
+          "subcategory": "Software",
+          "tags": [
+            "Music",
+            "Download",
+            "Software"
+          ],
+          "featured": false,
+          "popularity": 83
+        },
+        {
+          "id": "music-12",
+          "name": "spotube.dev",
+          "url": "https://spotube.krtirtho.dev/",
+          "domain": "spotube.krtirtho.dev",
+          "category": "music",
+          "categoryName": "Music",
+          "categoryIcon": "🎵",
+          "subcategory": "Software",
+          "tags": [
+            "Music",
+            "Download",
+            "Software"
+          ],
+          "featured": false,
+          "popularity": 81
+        },
+        {
+          "id": "music-13",
+          "name": "github.io/downline",
+          "url": "https://stefnotch.github.io/downline/",
+          "domain": "stefnotch.github.io",
+          "category": "music",
+          "categoryName": "Music",
+          "categoryIcon": "🎵",
+          "subcategory": "Software",
+          "tags": [
+            "Music",
+            "Download",
+            "Software"
+          ],
+          "featured": false,
+          "popularity": 80
+        }
+      ]
+    },
+    {
+      "id": "ebooks",
+      "name": "eBooks",
+      "slug": "ebooks",
+      "icon": "📚",
+      "lucide": "BookMarked",
+      "description": "eBook download sites offering novels, textbooks, and educational materials.",
+      "gradient": "from-teal-500 via-emerald-500 to-green-400",
+      "borderGlow": "hover:border-teal-500/50 hover:shadow-teal-500/10",
+      "count": 9,
+      "subcategories": [
+        "All",
+        "Audiobooks",
+        "eBook Readers"
+      ],
+      "items": [
+        {
+          "id": "ebooks-1",
+          "name": "z-lib.fm",
+          "url": "https://z-lib.fm/",
+          "domain": "z-lib.fm",
+          "category": "ebooks",
+          "categoryName": "eBooks",
+          "categoryIcon": "📚",
+          "subcategory": "All",
+          "tags": [
+            "Books",
+            "PDF/EPUB"
+          ],
+          "featured": true,
+          "popularity": 98
+        },
+        {
+          "id": "ebooks-2",
+          "name": "annas-archive.gl",
+          "url": "https://annas-archive.gl/",
+          "domain": "annas-archive.gl",
+          "category": "ebooks",
+          "categoryName": "eBooks",
+          "categoryIcon": "📚",
+          "subcategory": "All",
+          "tags": [
+            "Books",
+            "PDF/EPUB"
+          ],
+          "featured": true,
+          "popularity": 96
+        },
+        {
+          "id": "ebooks-3",
+          "name": "libgen.li",
+          "url": "https://libgen.li/",
+          "domain": "libgen.li",
+          "category": "ebooks",
+          "categoryName": "eBooks",
+          "categoryIcon": "📚",
+          "subcategory": "All",
+          "tags": [
+            "Books",
+            "PDF/EPUB"
+          ],
+          "featured": true,
+          "popularity": 95
+        },
+        {
+          "id": "ebooks-4",
+          "name": "ebook-hunter.org",
+          "url": "https://ebook-hunter.org/",
+          "domain": "ebook-hunter.org",
+          "category": "ebooks",
+          "categoryName": "eBooks",
+          "categoryIcon": "📚",
+          "subcategory": "All",
+          "tags": [
+            "Books",
+            "PDF/EPUB"
+          ],
+          "featured": false,
+          "popularity": 93
+        },
+        {
+          "id": "ebooks-5",
+          "name": "fulllengthaudiobooks.com",
+          "url": "https://fulllengthaudiobooks.com/",
+          "domain": "fulllengthaudiobooks.com",
+          "category": "ebooks",
+          "categoryName": "eBooks",
+          "categoryIcon": "📚",
+          "subcategory": "Audiobooks",
+          "tags": [
+            "Books",
+            "Audiobooks"
+          ],
+          "featured": false,
+          "popularity": 92
+        },
+        {
+          "id": "ebooks-6",
+          "name": "audiobookbay.lu",
+          "url": "https://audiobookbay.lu/",
+          "domain": "audiobookbay.lu",
+          "category": "ebooks",
+          "categoryName": "eBooks",
+          "categoryIcon": "📚",
+          "subcategory": "Audiobooks",
+          "tags": [
+            "Books",
+            "Audiobooks"
+          ],
+          "featured": false,
+          "popularity": 90
+        },
+        {
+          "id": "ebooks-7",
+          "name": "nepu.to",
+          "url": "https://nepu.to/ebooks",
+          "domain": "nepu.to",
+          "category": "ebooks",
+          "categoryName": "eBooks",
+          "categoryIcon": "📚",
+          "subcategory": "Audiobooks",
+          "tags": [
+            "Books",
+            "Audiobooks"
+          ],
+          "featured": false,
+          "popularity": 89
+        },
+        {
+          "id": "ebooks-8",
+          "name": "foxit.com",
+          "url": "https://www.foxit.com/pdf-reader/",
+          "domain": "foxit.com",
+          "category": "ebooks",
+          "categoryName": "eBooks",
+          "categoryIcon": "📚",
+          "subcategory": "eBook Readers",
+          "tags": [
+            "Books",
+            "eBook Readers"
+          ],
+          "featured": false,
+          "popularity": 87
+        },
+        {
+          "id": "ebooks-9",
+          "name": "flowoss.com",
+          "url": "https://www.flowoss.com/",
+          "domain": "flowoss.com",
+          "category": "ebooks",
+          "categoryName": "eBooks",
+          "categoryIcon": "📚",
+          "subcategory": "eBook Readers",
+          "tags": [
+            "Books",
+            "eBook Readers"
+          ],
+          "featured": false,
+          "popularity": 86
+        }
+      ]
+    },
+    {
+      "id": "comics",
+      "name": "Comics",
+      "slug": "comics",
+      "icon": "🦸",
+      "lucide": "Zap",
+      "description": "Comic reading sites featuring Western comics and graphic novels.",
+      "gradient": "from-orange-500 via-amber-500 to-yellow-400",
+      "borderGlow": "hover:border-orange-500/50 hover:shadow-orange-500/10",
+      "count": 5,
+      "subcategories": [
+        "All"
+      ],
+      "items": [
+        {
+          "id": "comics-1",
+          "name": "https://globalcomix.com/",
+          "url": "https://globalcomix.com/",
+          "domain": "globalcomix.com",
+          "category": "comics",
+          "categoryName": "Comics",
+          "categoryIcon": "🦸",
+          "subcategory": "All",
+          "tags": [
+            "Comics",
+            "Graphic Novels"
+          ],
+          "featured": true,
+          "popularity": 98
+        },
+        {
+          "id": "comics-2",
+          "name": "xoxocomic.com",
+          "url": "https://xoxocomic.com/",
+          "domain": "xoxocomic.com",
+          "category": "comics",
+          "categoryName": "Comics",
+          "categoryIcon": "🦸",
+          "subcategory": "All",
+          "tags": [
+            "Comics",
+            "Graphic Novels"
+          ],
+          "featured": true,
+          "popularity": 96
+        },
+        {
+          "id": "comics-3",
+          "name": "comicbookplus.com",
+          "url": "https://comicbookplus.com/",
+          "domain": "comicbookplus.com",
+          "category": "comics",
+          "categoryName": "Comics",
+          "categoryIcon": "🦸",
+          "subcategory": "All",
+          "tags": [
+            "Comics",
+            "Graphic Novels"
+          ],
+          "featured": true,
+          "popularity": 95
+        },
+        {
+          "id": "comics-4",
+          "name": "batcave.biz",
+          "url": "https://batcave.biz/",
+          "domain": "batcave.biz",
+          "category": "comics",
+          "categoryName": "Comics",
+          "categoryIcon": "🦸",
+          "subcategory": "All",
+          "tags": [
+            "Comics",
+            "Graphic Novels"
+          ],
+          "featured": false,
+          "popularity": 93
+        },
+        {
+          "id": "comics-5",
+          "name": "getcomics.org",
+          "url": "https://getcomics.org/",
+          "domain": "getcomics.org",
+          "category": "comics",
+          "categoryName": "Comics",
+          "categoryIcon": "🦸",
+          "subcategory": "All",
+          "tags": [
+            "Comics",
+            "Graphic Novels"
+          ],
+          "featured": false,
+          "popularity": 92
+        }
+      ]
+    },
+    {
+      "id": "asian-drama",
+      "name": "Asian Drama",
+      "slug": "asian-drama",
+      "icon": "🎭",
+      "lucide": "Clapperboard",
+      "description": "Websites for watching and streaming Asian TV dramas and films online.",
+      "gradient": "from-indigo-500 via-purple-500 to-pink-500",
+      "borderGlow": "hover:border-indigo-500/50 hover:shadow-indigo-500/10",
+      "count": 8,
+      "subcategories": [
+        "All"
+      ],
+      "items": [
+        {
+          "id": "asian-drama-1",
+          "name": "asiaflix.net",
+          "url": "https://asiaflix.net/home",
+          "domain": "asiaflix.net",
+          "category": "asian-drama",
+          "categoryName": "Asian Drama",
+          "categoryIcon": "🎭",
+          "subcategory": "All",
+          "tags": [
+            "Drama",
+            "K-Drama/C-Drama"
+          ],
+          "featured": true,
+          "popularity": 98
+        },
+        {
+          "id": "asian-drama-2",
+          "name": "kisskh.id",
+          "url": "https://kisskh.id/",
+          "domain": "kisskh.id",
+          "category": "asian-drama",
+          "categoryName": "Asian Drama",
+          "categoryIcon": "🎭",
+          "subcategory": "All",
+          "tags": [
+            "Drama",
+            "K-Drama/C-Drama"
+          ],
+          "featured": true,
+          "popularity": 96
+        },
+        {
+          "id": "asian-drama-3",
+          "name": "goplay.su",
+          "url": "https://goplay.su/",
+          "domain": "goplay.su",
+          "category": "asian-drama",
+          "categoryName": "Asian Drama",
+          "categoryIcon": "🎭",
+          "subcategory": "All",
+          "tags": [
+            "Drama",
+            "K-Drama/C-Drama"
+          ],
+          "featured": true,
+          "popularity": 95
+        },
+        {
+          "id": "asian-drama-4",
+          "name": "kissasian.com.lv",
+          "url": "https://ww14.kissasian.com.lv/",
+          "domain": "ww14.kissasian.com.lv",
+          "category": "asian-drama",
+          "categoryName": "Asian Drama",
+          "categoryIcon": "🎭",
+          "subcategory": "All",
+          "tags": [
+            "Drama",
+            "K-Drama/C-Drama"
+          ],
+          "featured": false,
+          "popularity": 93
+        },
+        {
+          "id": "asian-drama-5",
+          "name": "dramacool.com.tr",
+          "url": "https://dramacool.com.tr/",
+          "domain": "dramacool.com.tr",
+          "category": "asian-drama",
+          "categoryName": "Asian Drama",
+          "categoryIcon": "🎭",
+          "subcategory": "All",
+          "tags": [
+            "Drama",
+            "K-Drama/C-Drama"
+          ],
+          "featured": false,
+          "popularity": 92
+        },
+        {
+          "id": "asian-drama-6",
+          "name": "asianctv.cc",
+          "url": "https://asianctv.cc/",
+          "domain": "asianctv.cc",
+          "category": "asian-drama",
+          "categoryName": "Asian Drama",
+          "categoryIcon": "🎭",
+          "subcategory": "All",
+          "tags": [
+            "Drama",
+            "K-Drama/C-Drama"
+          ],
+          "featured": false,
+          "popularity": 90
+        },
+        {
+          "id": "asian-drama-7",
+          "name": "myasiantv.com.bz",
+          "url": "https://myasiantv.com.bz/",
+          "domain": "myasiantv.com.bz",
+          "category": "asian-drama",
+          "categoryName": "Asian Drama",
+          "categoryIcon": "🎭",
+          "subcategory": "All",
+          "tags": [
+            "Drama",
+            "K-Drama/C-Drama"
+          ],
+          "featured": false,
+          "popularity": 89
+        },
+        {
+          "id": "asian-drama-8",
+          "name": "kisskh.club",
+          "url": "https://kisskh.club/",
+          "domain": "kisskh.club",
+          "category": "asian-drama",
+          "categoryName": "Asian Drama",
+          "categoryIcon": "🎭",
+          "subcategory": "All",
+          "tags": [
+            "Drama",
+            "K-Drama/C-Drama"
+          ],
+          "featured": false,
+          "popularity": 87
+        }
+      ]
+    },
+    {
+      "id": "vpn",
+      "name": "VPN Tools",
+      "slug": "vpn",
+      "icon": "🛡️",
+      "lucide": "ShieldCheck",
+      "description": "Free and paid VPN tools to keep yer voyages private and yer flag unseen.",
+      "gradient": "from-cyan-500 via-teal-500 to-blue-500",
+      "borderGlow": "hover:border-cyan-500/50 hover:shadow-cyan-500/10",
+      "count": 6,
+      "subcategories": [
+        "All"
+      ],
+      "items": [
+        {
+          "id": "vpn-1",
+          "name": "Proton VPN",
+          "url": "https://go.getproton.me/SH2ba",
+          "domain": "go.getproton.me",
+          "category": "vpn",
+          "categoryName": "VPN Tools",
+          "categoryIcon": "🛡️",
+          "subcategory": "All",
+          "notes": "Most popular",
+          "tags": [
+            "Privacy",
+            "Security"
+          ],
+          "featured": true,
+          "popularity": 98
+        },
+        {
+          "id": "vpn-2",
+          "name": "Surfshark VPN",
+          "url": "https://www.dpbolvw.net/click-101290998-15438560",
+          "domain": "dpbolvw.net",
+          "category": "vpn",
+          "categoryName": "VPN Tools",
+          "categoryIcon": "🛡️",
+          "subcategory": "All",
+          "tags": [
+            "Privacy",
+            "Security"
+          ],
+          "featured": true,
+          "popularity": 96
+        },
+        {
+          "id": "vpn-3",
+          "name": "ExpressVPN",
+          "url": "https://www.jdoqocy.com/click-101290998-15230984",
+          "domain": "jdoqocy.com",
+          "category": "vpn",
+          "categoryName": "VPN Tools",
+          "categoryIcon": "🛡️",
+          "subcategory": "All",
+          "tags": [
+            "Privacy",
+            "Security"
+          ],
+          "featured": true,
+          "popularity": 95
+        },
+        {
+          "id": "vpn-4",
+          "name": "CyberGhost VPN",
+          "url": "https://www.dpbolvw.net/click-101290998-15024066",
+          "domain": "dpbolvw.net",
+          "category": "vpn",
+          "categoryName": "VPN Tools",
+          "categoryIcon": "🛡️",
+          "subcategory": "All",
+          "tags": [
+            "Privacy",
+            "Security"
+          ],
+          "featured": false,
+          "popularity": 93
+        },
+        {
+          "id": "vpn-5",
+          "name": "Private Internet Access VPN",
+          "url": "https://www.tkqlhce.com/click-101290998-14096959",
+          "domain": "tkqlhce.com",
+          "category": "vpn",
+          "categoryName": "VPN Tools",
+          "categoryIcon": "🛡️",
+          "subcategory": "All",
+          "tags": [
+            "Privacy",
+            "Security"
+          ],
+          "featured": false,
+          "popularity": 92
+        },
+        {
+          "id": "vpn-6",
+          "name": "VeePN",
+          "url": "https://www.tkqlhce.com/click-101290998-15736524",
+          "domain": "tkqlhce.com",
+          "category": "vpn",
+          "categoryName": "VPN Tools",
+          "categoryIcon": "🛡️",
+          "subcategory": "All",
+          "tags": [
+            "Privacy",
+            "Security"
+          ],
+          "featured": false,
+          "popularity": 90
+        }
+      ]
+    },
+    {
+      "id": "adblockers",
+      "name": "AdBlockers",
+      "slug": "adblockers",
+      "icon": "🚫",
+      "lucide": "Ban",
+      "description": "Ad-blocking tools to blast pesky pop-ups and keep the seas clear for smooth sailing.",
+      "gradient": "from-rose-500 via-red-500 to-orange-500",
+      "borderGlow": "hover:border-rose-500/50 hover:shadow-rose-500/10",
+      "count": 6,
+      "subcategories": [
+        "All"
+      ],
+      "items": [
+        {
+          "id": "adblockers-1",
+          "name": "Opera Browser",
+          "url": "https://www.dpbolvw.net/click-101290998-15736592",
+          "domain": "dpbolvw.net",
+          "category": "adblockers",
+          "categoryName": "AdBlockers",
+          "categoryIcon": "🚫",
+          "subcategory": "All",
+          "notes": "Built-in Adblocker",
+          "tags": [
+            "Extension",
+            "AdBlock"
+          ],
+          "featured": true,
+          "popularity": 98
+        },
+        {
+          "id": "adblockers-2",
+          "name": "uBlock Origin",
+          "url": "https://ublockorigin.com/",
+          "domain": "ublockorigin.com",
+          "category": "adblockers",
+          "categoryName": "AdBlockers",
+          "categoryIcon": "🚫",
+          "subcategory": "All",
+          "tags": [
+            "Extension",
+            "AdBlock"
+          ],
+          "featured": true,
+          "popularity": 96
+        },
+        {
+          "id": "adblockers-3",
+          "name": "AdBlock Plus",
+          "url": "https://adblockplus.org/",
+          "domain": "adblockplus.org",
+          "category": "adblockers",
+          "categoryName": "AdBlockers",
+          "categoryIcon": "🚫",
+          "subcategory": "All",
+          "tags": [
+            "Extension",
+            "AdBlock"
+          ],
+          "featured": true,
+          "popularity": 95
+        },
+        {
+          "id": "adblockers-4",
+          "name": "AdGuard",
+          "url": "https://adguard.com/",
+          "domain": "adguard.com",
+          "category": "adblockers",
+          "categoryName": "AdBlockers",
+          "categoryIcon": "🚫",
+          "subcategory": "All",
+          "tags": [
+            "Extension",
+            "AdBlock"
+          ],
+          "featured": false,
+          "popularity": 93
+        },
+        {
+          "id": "adblockers-5",
+          "name": "AdBlock",
+          "url": "https://getadblock.com/en/",
+          "domain": "getadblock.com",
+          "category": "adblockers",
+          "categoryName": "AdBlockers",
+          "categoryIcon": "🚫",
+          "subcategory": "All",
+          "tags": [
+            "Extension",
+            "AdBlock"
+          ],
+          "featured": false,
+          "popularity": 92
+        },
+        {
+          "id": "adblockers-6",
+          "name": "Poper Blocker",
+          "url": "https://poperblocker.com/",
+          "domain": "poperblocker.com",
+          "category": "adblockers",
+          "categoryName": "AdBlockers",
+          "categoryIcon": "🚫",
+          "subcategory": "All",
+          "tags": [
+            "Extension",
+            "AdBlock"
+          ],
+          "featured": false,
+          "popularity": 90
+        }
+      ]
+    },
+    {
+      "id": "adult",
+      "name": "Adult & 18+",
+      "slug": "adult",
+      "icon": "🔞",
+      "lucide": "Flame",
+      "description": "Adult content & 18+ entertainment portals.",
+      "gradient": "from-rose-600 via-pink-600 to-purple-600",
+      "borderGlow": "hover:border-rose-600/50 hover:shadow-rose-600/10",
+      "count": 2,
+      "subcategories": [
+        "All",
+        "Porn",
+        "Casino / Gambling"
+      ],
+      "items": [
+        {
+          "id": "adult-1",
+          "name": "Casino / Gambling",
+          "url": "https://ahoylist.net/18casino-list",
+          "domain": "ahoylist.net",
+          "category": "adult",
+          "categoryName": "Adult & 18+",
+          "categoryIcon": "🔞",
+          "subcategory": "Casino / Gambling",
+          "notes": "Age restricted 18+",
+          "tags": [
+            "18+",
+            "Casino / Gambling"
+          ],
+          "featured": false,
+          "popularity": 85
+        },
+        {
+          "id": "adult-2",
+          "name": "Porn",
+          "url": "https://ahoylist.net/18porn-list",
+          "domain": "ahoylist.net",
+          "category": "adult",
+          "categoryName": "Adult & 18+",
+          "categoryIcon": "🔞",
+          "subcategory": "Porn",
+          "notes": "Age restricted 18+",
+          "tags": [
+            "18+",
+            "Porn"
+          ],
+          "featured": false,
+          "popularity": 85
+        }
+      ]
+    }
+  ],
+  "allItems": [
+    {
+      "id": "movies-tv-1",
+      "name": "soap2night.cc",
+      "url": "https://hokejatv.com/redirect.php",
+      "domain": "hokejatv.com",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": true,
+      "popularity": 98
+    },
+    {
+      "id": "movies-tv-2",
+      "name": "ramoflix.net",
+      "url": "https://ramoflix.net/",
+      "domain": "ramoflix.net",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": true,
+      "popularity": 96
+    },
+    {
+      "id": "movies-tv-3",
+      "name": "doraby.com",
+      "url": "https://doraby.com",
+      "domain": "doraby.com",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": true,
+      "popularity": 95
+    },
+    {
+      "id": "movies-tv-4",
+      "name": "wmovies.org",
+      "url": "https://wmovies.org/",
+      "domain": "wmovies.org",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 93
+    },
+    {
+      "id": "movies-tv-5",
+      "name": "hydrahd.ws",
+      "url": "https://hydrahd.ws/",
+      "domain": "hydrahd.ws",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 92
+    },
+    {
+      "id": "movies-tv-6",
+      "name": "goojara.to",
+      "url": "https://ww1.goojara.to/",
+      "domain": "ww1.goojara.to",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 90
+    },
+    {
+      "id": "movies-tv-7",
+      "name": "7movies.in",
+      "url": "https://7movies.in/",
+      "domain": "7movies.in",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 89
+    },
+    {
+      "id": "movies-tv-8",
+      "name": "aether.ist",
+      "url": "https://aether.ist/",
+      "domain": "aether.ist",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 87
+    },
+    {
+      "id": "movies-tv-9",
+      "name": "fluxtv.cc",
+      "url": "https://fluxtv.cc/",
+      "domain": "fluxtv.cc",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 86
+    },
+    {
+      "id": "movies-tv-10",
+      "name": "flixer.su",
+      "url": "https://flixer.su/",
+      "domain": "flixer.su",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 84
+    },
+    {
+      "id": "movies-tv-11",
+      "name": "streamvaults.ru",
+      "url": "https://streamvaults.ru/",
+      "domain": "streamvaults.ru",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 83
+    },
+    {
+      "id": "movies-tv-12",
+      "name": "primeshows.org",
+      "url": "https://primeshows.org/",
+      "domain": "primeshows.org",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 81
+    },
+    {
+      "id": "movies-tv-13",
+      "name": "67movies.net",
+      "url": "https://67movies.net/",
+      "domain": "67movies.net",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 80
+    },
+    {
+      "id": "movies-tv-14",
+      "name": "shuttletv.su",
+      "url": "https://shuttletv.su/",
+      "domain": "shuttletv.su",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 78
+    },
+    {
+      "id": "movies-tv-15",
+      "name": "popcornmovies.ac",
+      "url": "https://popcornmovies.ac/",
+      "domain": "popcornmovies.ac",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 77
+    },
+    {
+      "id": "movies-tv-16",
+      "name": "rivestream.app",
+      "url": "https://www.rivestream.app/",
+      "domain": "rivestream.app",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 75
+    },
+    {
+      "id": "movies-tv-17",
+      "name": "stellar.gdn",
+      "url": "https://stellar.gdn/",
+      "domain": "stellar.gdn",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 74
+    },
+    {
+      "id": "movies-tv-18",
+      "name": "onionplay.st",
+      "url": "https://onionplay.st/",
+      "domain": "onionplay.st",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 72
+    },
+    {
+      "id": "movies-tv-19",
+      "name": "lookmovie2.to",
+      "url": "https://www.lookmovie2.to/",
+      "domain": "lookmovie2.to",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 71
+    },
+    {
+      "id": "movies-tv-20",
+      "name": "pressplayz.to",
+      "url": "https://pressplayz.to/",
+      "domain": "pressplayz.to",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 69
+    },
+    {
+      "id": "movies-tv-21",
+      "name": "nepu.io",
+      "url": "https://nepu.io/",
+      "domain": "nepu.io",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 68
+    },
+    {
+      "id": "movies-tv-22",
+      "name": "fmoviess.org",
+      "url": "https://fmoviess.org/",
+      "domain": "fmoviess.org",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 66
+    },
+    {
+      "id": "movies-tv-23",
+      "name": "soap2dayhd.net",
+      "url": "https://soap2dayhd.net/home/",
+      "domain": "soap2dayhd.net",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 65
+    },
+    {
+      "id": "movies-tv-24",
+      "name": "azmovies.to",
+      "url": "https://azmovies.to/",
+      "domain": "azmovies.to",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 63
+    },
+    {
+      "id": "movies-tv-25",
+      "name": "mapple.club",
+      "url": "https://mapple.club/",
+      "domain": "mapple.club",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 62
+    },
+    {
+      "id": "movies-tv-26",
+      "name": "streamex.sh",
+      "url": "https://streamex.sh/",
+      "domain": "streamex.sh",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 60
+    },
+    {
+      "id": "movies-tv-27",
+      "name": "opstream.fun",
+      "url": "https://opstream.fun/",
+      "domain": "opstream.fun",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 60
+    },
+    {
+      "id": "movies-tv-28",
+      "name": "latestmovies.net",
+      "url": "https://latestmovies.net/",
+      "domain": "latestmovies.net",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 60
+    },
+    {
+      "id": "movies-tv-29",
+      "name": "officialmoviebox.com",
+      "url": "https://officialmoviebox.com/",
+      "domain": "officialmoviebox.com",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 60
+    },
+    {
+      "id": "movies-tv-30",
+      "name": "hdtoday24.at",
+      "url": "https://hdtoday24.at/",
+      "domain": "hdtoday24.at",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 60
+    },
+    {
+      "id": "movies-tv-31",
+      "name": "cinebytv.com",
+      "url": "https://cinebytv.com/",
+      "domain": "cinebytv.com",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 60
+    },
+    {
+      "id": "movies-tv-32",
+      "name": "ridomovies.su",
+      "url": "https://ridomovies.su/",
+      "domain": "ridomovies.su",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 60
+    },
+    {
+      "id": "movies-tv-33",
+      "name": "123moviesfree.net",
+      "url": "https://ww7.123moviesfree.net/home/",
+      "domain": "ww7.123moviesfree.net",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 60
+    },
+    {
+      "id": "movies-tv-34",
+      "name": "willowmovies.com",
+      "url": "https://willowmovies.com/",
+      "domain": "willowmovies.com",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 60
+    },
+    {
+      "id": "movies-tv-35",
+      "name": "vidplay.top",
+      "url": "https://vidplay.top/",
+      "domain": "vidplay.top",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 60
+    },
+    {
+      "id": "movies-tv-36",
+      "name": "cinemaos.live",
+      "url": "https://cinemaos.live/",
+      "domain": "cinemaos.live",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 60
+    },
+    {
+      "id": "movies-tv-37",
+      "name": "yesmovies.ag",
+      "url": "https://ww.yesmovies.ag/",
+      "domain": "ww.yesmovies.ag",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 60
+    },
+    {
+      "id": "movies-tv-38",
+      "name": "anixtv.us.cc",
+      "url": "https://anixtv.us.cc/",
+      "domain": "anixtv.us.cc",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 60
+    },
+    {
+      "id": "movies-tv-39",
+      "name": "primewire.mov",
+      "url": "https://www.primewire.mov/home",
+      "domain": "primewire.mov",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 60
+    },
+    {
+      "id": "movies-tv-40",
+      "name": "moviepire.ru",
+      "url": "https://moviepire.ru/",
+      "domain": "moviepire.ru",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 60
+    },
+    {
+      "id": "movies-tv-41",
+      "name": "flicker-mini.pages.dev",
+      "url": "https://flicker-mini.pages.dev/",
+      "domain": "flicker-mini.pages.dev",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 60
+    },
+    {
+      "id": "movies-tv-42",
+      "name": "m4uhd.page",
+      "url": "https://ww1.m4uhd.page/",
+      "domain": "ww1.m4uhd.page",
+      "category": "movies-tv",
+      "categoryName": "Movies & TV Shows",
+      "categoryIcon": "🎬",
+      "subcategory": "All",
+      "tags": [
+        "Movies",
+        "TV Shows",
+        "Streaming"
+      ],
+      "featured": false,
+      "popularity": 60
+    },
+    {
+      "id": "anime-1",
+      "name": "anime.nexus",
+      "url": "https://anime.nexus/",
+      "domain": "anime.nexus",
+      "category": "anime",
+      "categoryName": "Anime",
+      "categoryIcon": "🍥",
+      "subcategory": "All",
+      "tags": [
+        "Anime",
+        "Subbed/Dubbed"
+      ],
+      "featured": true,
+      "popularity": 98
+    },
+    {
+      "id": "anime-2",
+      "name": "animekai.to",
+      "url": "https://animekai.to/home",
+      "domain": "animekai.to",
+      "category": "anime",
+      "categoryName": "Anime",
+      "categoryIcon": "🍥",
+      "subcategory": "All",
+      "tags": [
+        "Anime",
+        "Subbed/Dubbed"
+      ],
+      "featured": true,
+      "popularity": 96
+    },
+    {
+      "id": "anime-3",
+      "name": "anizone.to",
+      "url": "https://anizone.to/",
+      "domain": "anizone.to",
+      "category": "anime",
+      "categoryName": "Anime",
+      "categoryIcon": "🍥",
+      "subcategory": "All",
+      "tags": [
+        "Anime",
+        "Subbed/Dubbed"
+      ],
+      "featured": true,
+      "popularity": 95
+    },
+    {
+      "id": "anime-4",
+      "name": "miruro.to",
+      "url": "https://www.miruro.to/",
+      "domain": "miruro.to",
+      "category": "anime",
+      "categoryName": "Anime",
+      "categoryIcon": "🍥",
+      "subcategory": "All",
+      "tags": [
+        "Anime",
+        "Subbed/Dubbed"
+      ],
+      "featured": false,
+      "popularity": 93
+    },
+    {
+      "id": "anime-5",
+      "name": "anitaku.io",
+      "url": "https://anitaku.io/",
+      "domain": "anitaku.io",
+      "category": "anime",
+      "categoryName": "Anime",
+      "categoryIcon": "🍥",
+      "subcategory": "All",
+      "tags": [
+        "Anime",
+        "Subbed/Dubbed"
+      ],
+      "featured": false,
+      "popularity": 92
+    },
+    {
+      "id": "anime-6",
+      "name": "anikai.to",
+      "url": "https://anikai.to/",
+      "domain": "anikai.to",
+      "category": "anime",
+      "categoryName": "Anime",
+      "categoryIcon": "🍥",
+      "subcategory": "All",
+      "tags": [
+        "Anime",
+        "Subbed/Dubbed"
+      ],
+      "featured": false,
+      "popularity": 90
+    },
+    {
+      "id": "anime-7",
+      "name": "gogoanime.org.vc",
+      "url": "https://wvv.gogoanime.org.vc/",
+      "domain": "wvv.gogoanime.org.vc",
+      "category": "anime",
+      "categoryName": "Anime",
+      "categoryIcon": "🍥",
+      "subcategory": "All",
+      "tags": [
+        "Anime",
+        "Subbed/Dubbed"
+      ],
+      "featured": false,
+      "popularity": 89
+    },
+    {
+      "id": "anime-8",
+      "name": "yenime.net",
+      "url": "https://yenime.net/",
+      "domain": "yenime.net",
+      "category": "anime",
+      "categoryName": "Anime",
+      "categoryIcon": "🍥",
+      "subcategory": "All",
+      "tags": [
+        "Anime",
+        "Subbed/Dubbed"
+      ],
+      "featured": false,
+      "popularity": 87
+    },
+    {
+      "id": "anime-9",
+      "name": "kickass-anime.ro",
+      "url": "https://kickass-anime.ro/",
+      "domain": "kickass-anime.ro",
+      "category": "anime",
+      "categoryName": "Anime",
+      "categoryIcon": "🍥",
+      "subcategory": "All",
+      "tags": [
+        "Anime",
+        "Subbed/Dubbed"
+      ],
+      "featured": false,
+      "popularity": 86
+    },
+    {
+      "id": "anime-10",
+      "name": "animex.one",
+      "url": "https://animex.one/home",
+      "domain": "animex.one",
+      "category": "anime",
+      "categoryName": "Anime",
+      "categoryIcon": "🍥",
+      "subcategory": "All",
+      "tags": [
+        "Anime",
+        "Subbed/Dubbed"
+      ],
+      "featured": false,
+      "popularity": 84
+    },
+    {
+      "id": "anime-11",
+      "name": "animegg.org",
+      "url": "https://www.animegg.org/",
+      "domain": "animegg.org",
+      "category": "anime",
+      "categoryName": "Anime",
+      "categoryIcon": "🍥",
+      "subcategory": "All",
+      "tags": [
+        "Anime",
+        "Subbed/Dubbed"
+      ],
+      "featured": false,
+      "popularity": 83
+    },
+    {
+      "id": "anime-12",
+      "name": "animestream.net",
+      "url": "https://anime.uniquestream.net/",
+      "domain": "anime.uniquestream.net",
+      "category": "anime",
+      "categoryName": "Anime",
+      "categoryIcon": "🍥",
+      "subcategory": "All",
+      "tags": [
+        "Anime",
+        "Subbed/Dubbed"
+      ],
+      "featured": false,
+      "popularity": 81
+    },
+    {
+      "id": "anime-13",
+      "name": "kissanime.com.ru",
+      "url": "https://kissanime.com.ru/",
+      "domain": "kissanime.com.ru",
+      "category": "anime",
+      "categoryName": "Anime",
+      "categoryIcon": "🍥",
+      "subcategory": "All",
+      "tags": [
+        "Anime",
+        "Subbed/Dubbed"
+      ],
+      "featured": false,
+      "popularity": 80
+    },
+    {
+      "id": "anime-14",
+      "name": "allmanga.to",
+      "url": "https://allmanga.to/",
+      "domain": "allmanga.to",
+      "category": "anime",
+      "categoryName": "Anime",
+      "categoryIcon": "🍥",
+      "subcategory": "All",
+      "tags": [
+        "Anime",
+        "Subbed/Dubbed"
+      ],
+      "featured": false,
+      "popularity": 78
+    },
+    {
+      "id": "anime-15",
+      "name": "aniworld.to",
+      "url": "https://aniworld.to/",
+      "domain": "aniworld.to",
+      "category": "anime",
+      "categoryName": "Anime",
+      "categoryIcon": "🍥",
+      "subcategory": "All",
+      "tags": [
+        "Anime",
+        "Subbed/Dubbed"
+      ],
+      "featured": false,
+      "popularity": 77
+    },
+    {
+      "id": "anime-16",
+      "name": "wcostream.tv",
+      "url": "https://www.wcostream.tv/",
+      "domain": "wcostream.tv",
+      "category": "anime",
+      "categoryName": "Anime",
+      "categoryIcon": "🍥",
+      "subcategory": "All",
+      "tags": [
+        "Anime",
+        "Subbed/Dubbed"
+      ],
+      "featured": false,
+      "popularity": 75
+    },
+    {
+      "id": "anime-17",
+      "name": "justanime.to",
+      "url": "https://justanime.to/",
+      "domain": "justanime.to",
+      "category": "anime",
+      "categoryName": "Anime",
+      "categoryIcon": "🍥",
+      "subcategory": "All",
+      "tags": [
+        "Anime",
+        "Subbed/Dubbed"
+      ],
+      "featured": false,
+      "popularity": 74
+    },
+    {
+      "id": "anime-18",
+      "name": "123animes.ru",
+      "url": "https://w1.123animes.ru/",
+      "domain": "w1.123animes.ru",
+      "category": "anime",
+      "categoryName": "Anime",
+      "categoryIcon": "🍥",
+      "subcategory": "All",
+      "tags": [
+        "Anime",
+        "Subbed/Dubbed"
+      ],
+      "featured": false,
+      "popularity": 72
+    },
+    {
+      "id": "manga-1",
+      "name": "comix.to",
+      "url": "https://comix.to/",
+      "domain": "comix.to",
+      "category": "manga",
+      "categoryName": "Manga",
+      "categoryIcon": "📖",
+      "subcategory": "All",
+      "tags": [
+        "Manga",
+        "Reader"
+      ],
+      "featured": true,
+      "popularity": 98
+    },
+    {
+      "id": "manga-2",
+      "name": "mangafire.to",
+      "url": "https://mangafire.to/home",
+      "domain": "mangafire.to",
+      "category": "manga",
+      "categoryName": "Manga",
+      "categoryIcon": "📖",
+      "subcategory": "All",
+      "tags": [
+        "Manga",
+        "Reader"
+      ],
+      "featured": true,
+      "popularity": 96
+    },
+    {
+      "id": "manga-3",
+      "name": "mangahaven.net",
+      "url": "https://mangahaven.net/",
+      "domain": "mangahaven.net",
+      "category": "manga",
+      "categoryName": "Manga",
+      "categoryIcon": "📖",
+      "subcategory": "All",
+      "tags": [
+        "Manga",
+        "Reader"
+      ],
+      "featured": true,
+      "popularity": 95
+    },
+    {
+      "id": "manga-4",
+      "name": "mangataro.org",
+      "url": "https://mangataro.org/",
+      "domain": "mangataro.org",
+      "category": "manga",
+      "categoryName": "Manga",
+      "categoryIcon": "📖",
+      "subcategory": "All",
+      "tags": [
+        "Manga",
+        "Reader"
+      ],
+      "featured": false,
+      "popularity": 93
+    },
+    {
+      "id": "manga-5",
+      "name": "mangadex.org",
+      "url": "https://mangadex.org/",
+      "domain": "mangadex.org",
+      "category": "manga",
+      "categoryName": "Manga",
+      "categoryIcon": "📖",
+      "subcategory": "All",
+      "tags": [
+        "Manga",
+        "Reader"
+      ],
+      "featured": false,
+      "popularity": 92
+    },
+    {
+      "id": "manga-6",
+      "name": "allmanga.to",
+      "url": "https://allmanga.to/manga",
+      "domain": "allmanga.to",
+      "category": "manga",
+      "categoryName": "Manga",
+      "categoryIcon": "📖",
+      "subcategory": "All",
+      "tags": [
+        "Manga",
+        "Reader"
+      ],
+      "featured": false,
+      "popularity": 90
+    },
+    {
+      "id": "manga-7",
+      "name": "mangago.me",
+      "url": "https://mangago.me/",
+      "domain": "mangago.me",
+      "category": "manga",
+      "categoryName": "Manga",
+      "categoryIcon": "📖",
+      "subcategory": "All",
+      "tags": [
+        "Manga",
+        "Reader"
+      ],
+      "featured": false,
+      "popularity": 89
+    },
+    {
+      "id": "manga-8",
+      "name": "weebcentral.com",
+      "url": "https://weebcentral.com/",
+      "domain": "weebcentral.com",
+      "category": "manga",
+      "categoryName": "Manga",
+      "categoryIcon": "📖",
+      "subcategory": "All",
+      "tags": [
+        "Manga",
+        "Reader"
+      ],
+      "featured": false,
+      "popularity": 87
+    },
+    {
+      "id": "manga-9",
+      "name": "manganato.gg",
+      "url": "https://www.manganato.gg/",
+      "domain": "manganato.gg",
+      "category": "manga",
+      "categoryName": "Manga",
+      "categoryIcon": "📖",
+      "subcategory": "All",
+      "tags": [
+        "Manga",
+        "Reader"
+      ],
+      "featured": false,
+      "popularity": 86
+    },
+    {
+      "id": "manga-10",
+      "name": "kagane.org",
+      "url": "https://kagane.org/",
+      "domain": "kagane.org",
+      "category": "manga",
+      "categoryName": "Manga",
+      "categoryIcon": "📖",
+      "subcategory": "All",
+      "tags": [
+        "Manga",
+        "Reader"
+      ],
+      "featured": false,
+      "popularity": 84
+    },
+    {
+      "id": "live-sports-1",
+      "name": "streameast.gk",
+      "url": "https://hai8g.com/4/11158480",
+      "domain": "hai8g.com",
+      "category": "live-sports",
+      "categoryName": "Live Sports",
+      "categoryIcon": "⚽",
+      "subcategory": "All",
+      "tags": [
+        "Sports",
+        "Live Stream"
+      ],
+      "featured": true,
+      "popularity": 98
+    },
+    {
+      "id": "live-sports-2",
+      "name": "livetv.sx",
+      "url": "https://livetv.sx/enx/",
+      "domain": "livetv.sx",
+      "category": "live-sports",
+      "categoryName": "Live Sports",
+      "categoryIcon": "⚽",
+      "subcategory": "All",
+      "tags": [
+        "Sports",
+        "Live Stream"
+      ],
+      "featured": true,
+      "popularity": 96
+    },
+    {
+      "id": "live-sports-3",
+      "name": "streamsports99.su",
+      "url": "https://streamsports99.su/",
+      "domain": "streamsports99.su",
+      "category": "live-sports",
+      "categoryName": "Live Sports",
+      "categoryIcon": "⚽",
+      "subcategory": "All",
+      "tags": [
+        "Sports",
+        "Live Stream"
+      ],
+      "featured": true,
+      "popularity": 95
+    },
+    {
+      "id": "live-sports-4",
+      "name": "streamed.pk",
+      "url": "https://streamed.pk/",
+      "domain": "streamed.pk",
+      "category": "live-sports",
+      "categoryName": "Live Sports",
+      "categoryIcon": "⚽",
+      "subcategory": "All",
+      "tags": [
+        "Sports",
+        "Live Stream"
+      ],
+      "featured": false,
+      "popularity": 93
+    },
+    {
+      "id": "live-sports-5",
+      "name": "ntv.cx",
+      "url": "https://ntv.cx/",
+      "domain": "ntv.cx",
+      "category": "live-sports",
+      "categoryName": "Live Sports",
+      "categoryIcon": "⚽",
+      "subcategory": "All",
+      "tags": [
+        "Sports",
+        "Live Stream"
+      ],
+      "featured": false,
+      "popularity": 92
+    },
+    {
+      "id": "live-sports-6",
+      "name": "streameast.ga",
+      "url": "https://v2.streameast.ga/",
+      "domain": "v2.streameast.ga",
+      "category": "live-sports",
+      "categoryName": "Live Sports",
+      "categoryIcon": "⚽",
+      "subcategory": "All",
+      "tags": [
+        "Sports",
+        "Live Stream"
+      ],
+      "featured": false,
+      "popularity": 90
+    },
+    {
+      "id": "live-sports-7",
+      "name": "fctv33.hair",
+      "url": "https://www.fctv33.hair/",
+      "domain": "fctv33.hair",
+      "category": "live-sports",
+      "categoryName": "Live Sports",
+      "categoryIcon": "⚽",
+      "subcategory": "All",
+      "tags": [
+        "Sports",
+        "Live Stream"
+      ],
+      "featured": false,
+      "popularity": 89
+    },
+    {
+      "id": "live-sports-8",
+      "name": "methstreams.ms",
+      "url": "https://methstreams.ms/",
+      "domain": "methstreams.ms",
+      "category": "live-sports",
+      "categoryName": "Live Sports",
+      "categoryIcon": "⚽",
+      "subcategory": "All",
+      "tags": [
+        "Sports",
+        "Live Stream"
+      ],
+      "featured": false,
+      "popularity": 87
+    },
+    {
+      "id": "live-sports-9",
+      "name": "streamfree.top",
+      "url": "https://streamfree.top/",
+      "domain": "streamfree.top",
+      "category": "live-sports",
+      "categoryName": "Live Sports",
+      "categoryIcon": "⚽",
+      "subcategory": "All",
+      "tags": [
+        "Sports",
+        "Live Stream"
+      ],
+      "featured": false,
+      "popularity": 86
+    },
+    {
+      "id": "live-sports-10",
+      "name": "bintv.cc",
+      "url": "https://www.bintv.cc/",
+      "domain": "bintv.cc",
+      "category": "live-sports",
+      "categoryName": "Live Sports",
+      "categoryIcon": "⚽",
+      "subcategory": "All",
+      "tags": [
+        "Sports",
+        "Live Stream"
+      ],
+      "featured": false,
+      "popularity": 84
+    },
+    {
+      "id": "live-sports-11",
+      "name": "sportyhunter.xyz",
+      "url": "https://sportyhunter.xyz/",
+      "domain": "sportyhunter.xyz",
+      "category": "live-sports",
+      "categoryName": "Live Sports",
+      "categoryIcon": "⚽",
+      "subcategory": "All",
+      "tags": [
+        "Sports",
+        "Live Stream"
+      ],
+      "featured": false,
+      "popularity": 83
+    },
+    {
+      "id": "live-sports-12",
+      "name": "roxiestreams.su",
+      "url": "https://roxiestreams.su/",
+      "domain": "roxiestreams.su",
+      "category": "live-sports",
+      "categoryName": "Live Sports",
+      "categoryIcon": "⚽",
+      "subcategory": "All",
+      "tags": [
+        "Sports",
+        "Live Stream"
+      ],
+      "featured": false,
+      "popularity": 81
+    },
+    {
+      "id": "live-sports-13",
+      "name": "onhockey.tv",
+      "url": "http://onhockey.tv/",
+      "domain": "onhockey.tv",
+      "category": "live-sports",
+      "categoryName": "Live Sports",
+      "categoryIcon": "⚽",
+      "subcategory": "All",
+      "tags": [
+        "Sports",
+        "Live Stream"
+      ],
+      "featured": false,
+      "popularity": 80
+    },
+    {
+      "id": "live-sports-14",
+      "name": "crackstreams.io",
+      "url": "https://crackstreams.io/",
+      "domain": "crackstreams.io",
+      "category": "live-sports",
+      "categoryName": "Live Sports",
+      "categoryIcon": "⚽",
+      "subcategory": "All",
+      "tags": [
+        "Sports",
+        "Live Stream"
+      ],
+      "featured": false,
+      "popularity": 78
+    },
+    {
+      "id": "live-sports-15",
+      "name": "score808hd.tv",
+      "url": "https://a1.score808hd.tv/",
+      "domain": "a1.score808hd.tv",
+      "category": "live-sports",
+      "categoryName": "Live Sports",
+      "categoryIcon": "⚽",
+      "subcategory": "All",
+      "tags": [
+        "Sports",
+        "Live Stream"
+      ],
+      "featured": false,
+      "popularity": 77
+    },
+    {
+      "id": "live-sports-16",
+      "name": "timstreams.st",
+      "url": "https://timstreams.st/",
+      "domain": "timstreams.st",
+      "category": "live-sports",
+      "categoryName": "Live Sports",
+      "categoryIcon": "⚽",
+      "subcategory": "All",
+      "tags": [
+        "Sports",
+        "Live Stream"
+      ],
+      "featured": false,
+      "popularity": 75
+    },
+    {
+      "id": "live-sports-17",
+      "name": "strikeout.im",
+      "url": "https://strikeout.im/",
+      "domain": "strikeout.im",
+      "category": "live-sports",
+      "categoryName": "Live Sports",
+      "categoryIcon": "⚽",
+      "subcategory": "All",
+      "tags": [
+        "Sports",
+        "Live Stream"
+      ],
+      "featured": false,
+      "popularity": 74
+    },
+    {
+      "id": "live-sports-18",
+      "name": "watchfooty.st",
+      "url": "https://www.watchfooty.st/en",
+      "domain": "watchfooty.st",
+      "category": "live-sports",
+      "categoryName": "Live Sports",
+      "categoryIcon": "⚽",
+      "subcategory": "All",
+      "tags": [
+        "Sports",
+        "Live Stream"
+      ],
+      "featured": false,
+      "popularity": 72
+    },
+    {
+      "id": "live-sports-19",
+      "name": "sportsurge.net",
+      "url": "https://v2.sportsurge.net/",
+      "domain": "v2.sportsurge.net",
+      "category": "live-sports",
+      "categoryName": "Live Sports",
+      "categoryIcon": "⚽",
+      "subcategory": "All",
+      "tags": [
+        "Sports",
+        "Live Stream"
+      ],
+      "featured": false,
+      "popularity": 71
+    },
+    {
+      "id": "live-tv-1",
+      "name": "famelack.com",
+      "url": "https://famelack.com/",
+      "domain": "famelack.com",
+      "category": "live-tv",
+      "categoryName": "Live TV",
+      "categoryIcon": "📺",
+      "subcategory": "All",
+      "notes": "Blocked for some countries",
+      "tags": [
+        "IPTV",
+        "Channels"
+      ],
+      "featured": true,
+      "popularity": 98
+    },
+    {
+      "id": "live-tv-2",
+      "name": "streamsports99.su",
+      "url": "https://streamsports99.su/live-tv",
+      "domain": "streamsports99.su",
+      "category": "live-tv",
+      "categoryName": "Live TV",
+      "categoryIcon": "📺",
+      "subcategory": "All",
+      "tags": [
+        "IPTV",
+        "Channels"
+      ],
+      "featured": true,
+      "popularity": 96
+    },
+    {
+      "id": "live-tv-3",
+      "name": "globetv.app",
+      "url": "https://globetv.app/",
+      "domain": "globetv.app",
+      "category": "live-tv",
+      "categoryName": "Live TV",
+      "categoryIcon": "📺",
+      "subcategory": "All",
+      "tags": [
+        "IPTV",
+        "Channels"
+      ],
+      "featured": true,
+      "popularity": 95
+    },
+    {
+      "id": "live-tv-4",
+      "name": "daddylive.st",
+      "url": "https://dlhd.st//24-7-channels.php",
+      "domain": "dlhd.st",
+      "category": "live-tv",
+      "categoryName": "Live TV",
+      "categoryIcon": "📺",
+      "subcategory": "All",
+      "tags": [
+        "IPTV",
+        "Channels"
+      ],
+      "featured": false,
+      "popularity": 93
+    },
+    {
+      "id": "live-tv-5",
+      "name": "tv247us.live",
+      "url": "https://tv247us.live/",
+      "domain": "tv247us.live",
+      "category": "live-tv",
+      "categoryName": "Live TV",
+      "categoryIcon": "📺",
+      "subcategory": "All",
+      "tags": [
+        "IPTV",
+        "Channels"
+      ],
+      "featured": false,
+      "popularity": 92
+    },
+    {
+      "id": "live-tv-6",
+      "name": "ntv.cx",
+      "url": "https://ntv.cx/",
+      "domain": "ntv.cx",
+      "category": "live-tv",
+      "categoryName": "Live TV",
+      "categoryIcon": "📺",
+      "subcategory": "All",
+      "tags": [
+        "IPTV",
+        "Channels"
+      ],
+      "featured": false,
+      "popularity": 90
+    },
+    {
+      "id": "live-tv-7",
+      "name": "iptv-web.app",
+      "url": "https://iptv-web.app/",
+      "domain": "iptv-web.app",
+      "category": "live-tv",
+      "categoryName": "Live TV",
+      "categoryIcon": "📺",
+      "subcategory": "All",
+      "tags": [
+        "IPTV",
+        "Channels"
+      ],
+      "featured": false,
+      "popularity": 89
+    },
+    {
+      "id": "live-tv-8",
+      "name": "publiciptv.com",
+      "url": "https://publiciptv.com/",
+      "domain": "publiciptv.com",
+      "category": "live-tv",
+      "categoryName": "Live TV",
+      "categoryIcon": "📺",
+      "subcategory": "All",
+      "tags": [
+        "IPTV",
+        "Channels"
+      ],
+      "featured": false,
+      "popularity": 87
+    },
+    {
+      "id": "torrents-1",
+      "name": "1337x.to",
+      "url": "https://1337x.to/",
+      "domain": "1337x.to",
+      "category": "torrents",
+      "categoryName": "Torrents",
+      "categoryIcon": "🧲",
+      "subcategory": "All",
+      "tags": [
+        "P2P",
+        "Trackers"
+      ],
+      "featured": true,
+      "popularity": 98
+    },
+    {
+      "id": "torrents-2",
+      "name": "rutracker.org",
+      "url": "https://rutracker.org/forum/index.php",
+      "domain": "rutracker.org",
+      "category": "torrents",
+      "categoryName": "Torrents",
+      "categoryIcon": "🧲",
+      "subcategory": "All",
+      "tags": [
+        "P2P",
+        "Trackers"
+      ],
+      "featured": true,
+      "popularity": 96
+    },
+    {
+      "id": "torrents-3",
+      "name": "limetorrents.fun",
+      "url": "https://www.limetorrents.fun/",
+      "domain": "limetorrents.fun",
+      "category": "torrents",
+      "categoryName": "Torrents",
+      "categoryIcon": "🧲",
+      "subcategory": "All",
+      "tags": [
+        "P2P",
+        "Trackers"
+      ],
+      "featured": true,
+      "popularity": 95
+    },
+    {
+      "id": "torrents-4",
+      "name": "yts.bz",
+      "url": "https://yts.bz/",
+      "domain": "yts.bz",
+      "category": "torrents",
+      "categoryName": "Torrents",
+      "categoryIcon": "🧲",
+      "subcategory": "All",
+      "notes": "Movies",
+      "tags": [
+        "P2P",
+        "Trackers"
+      ],
+      "featured": false,
+      "popularity": 93
+    },
+    {
+      "id": "torrents-5",
+      "name": "eztvx.to",
+      "url": "https://eztvx.to/home",
+      "domain": "eztvx.to",
+      "category": "torrents",
+      "categoryName": "Torrents",
+      "categoryIcon": "🧲",
+      "subcategory": "All",
+      "notes": "TV Shows",
+      "tags": [
+        "P2P",
+        "Trackers"
+      ],
+      "featured": false,
+      "popularity": 92
+    },
+    {
+      "id": "torrents-6",
+      "name": "torrentgalaxy.one",
+      "url": "https://torrentgalaxy.one/",
+      "domain": "torrentgalaxy.one",
+      "category": "torrents",
+      "categoryName": "Torrents",
+      "categoryIcon": "🧲",
+      "subcategory": "All",
+      "tags": [
+        "P2P",
+        "Trackers"
+      ],
+      "featured": false,
+      "popularity": 90
+    },
+    {
+      "id": "torrents-7",
+      "name": "extratorrent.st",
+      "url": "https://extratorrent.st/",
+      "domain": "extratorrent.st",
+      "category": "torrents",
+      "categoryName": "Torrents",
+      "categoryIcon": "🧲",
+      "subcategory": "All",
+      "tags": [
+        "P2P",
+        "Trackers"
+      ],
+      "featured": false,
+      "popularity": 89
+    },
+    {
+      "id": "torrents-8",
+      "name": "ext.to",
+      "url": "https://ext.to/",
+      "domain": "ext.to",
+      "category": "torrents",
+      "categoryName": "Torrents",
+      "categoryIcon": "🧲",
+      "subcategory": "All",
+      "tags": [
+        "P2P",
+        "Trackers"
+      ],
+      "featured": false,
+      "popularity": 87
+    },
+    {
+      "id": "torrents-9",
+      "name": "rargb.to",
+      "url": "https://rargb.to/",
+      "domain": "rargb.to",
+      "category": "torrents",
+      "categoryName": "Torrents",
+      "categoryIcon": "🧲",
+      "subcategory": "All",
+      "tags": [
+        "P2P",
+        "Trackers"
+      ],
+      "featured": false,
+      "popularity": 86
+    },
+    {
+      "id": "torrents-10",
+      "name": "thepiratebay.org",
+      "url": "https://thepiratebay.org/index.html",
+      "domain": "thepiratebay.org",
+      "category": "torrents",
+      "categoryName": "Torrents",
+      "categoryIcon": "🧲",
+      "subcategory": "All",
+      "notes": "Use at your own risk",
+      "tags": [
+        "P2P",
+        "Trackers"
+      ],
+      "featured": false,
+      "popularity": 84
+    },
+    {
+      "id": "games-1",
+      "name": "fitgirl-repacks.site",
+      "url": "https://fitgirl-repacks.site/",
+      "domain": "fitgirl-repacks.site",
+      "category": "games",
+      "categoryName": "Games",
+      "categoryIcon": "🎮",
+      "subcategory": "All",
+      "tags": [
+        "PC",
+        "Repacks"
+      ],
+      "featured": true,
+      "popularity": 98
+    },
+    {
+      "id": "games-2",
+      "name": "dodi-repacks.site",
+      "url": "https://dodi-repacks.site/",
+      "domain": "dodi-repacks.site",
+      "category": "games",
+      "categoryName": "Games",
+      "categoryIcon": "🎮",
+      "subcategory": "All",
+      "tags": [
+        "PC",
+        "Repacks"
+      ],
+      "featured": true,
+      "popularity": 96
+    },
+    {
+      "id": "games-3",
+      "name": "ankergames.net",
+      "url": "https://ankergames.net/",
+      "domain": "ankergames.net",
+      "category": "games",
+      "categoryName": "Games",
+      "categoryIcon": "🎮",
+      "subcategory": "All",
+      "tags": [
+        "PC",
+        "Repacks"
+      ],
+      "featured": true,
+      "popularity": 95
+    },
+    {
+      "id": "games-4",
+      "name": "g4u.to",
+      "url": "https://g4u.to/",
+      "domain": "g4u.to",
+      "category": "games",
+      "categoryName": "Games",
+      "categoryIcon": "🎮",
+      "subcategory": "All",
+      "tags": [
+        "PC",
+        "Repacks"
+      ],
+      "featured": false,
+      "popularity": 93
+    },
+    {
+      "id": "games-5",
+      "name": "steamrip.com",
+      "url": "https://steamrip.com/",
+      "domain": "steamrip.com",
+      "category": "games",
+      "categoryName": "Games",
+      "categoryIcon": "🎮",
+      "subcategory": "All",
+      "tags": [
+        "PC",
+        "Repacks"
+      ],
+      "featured": false,
+      "popularity": 92
+    },
+    {
+      "id": "games-6",
+      "name": "steamgg.net",
+      "url": "https://steamgg.net/",
+      "domain": "steamgg.net",
+      "category": "games",
+      "categoryName": "Games",
+      "categoryIcon": "🎮",
+      "subcategory": "All",
+      "tags": [
+        "PC",
+        "Repacks"
+      ],
+      "featured": false,
+      "popularity": 90
+    },
+    {
+      "id": "games-7",
+      "name": "m4ckd0ge-repacks.site",
+      "url": "https://m4ckd0ge-repacks.site/",
+      "domain": "m4ckd0ge-repacks.site",
+      "category": "games",
+      "categoryName": "Games",
+      "categoryIcon": "🎮",
+      "subcategory": "All",
+      "tags": [
+        "PC",
+        "Repacks"
+      ],
+      "featured": false,
+      "popularity": 89
+    },
+    {
+      "id": "games-8",
+      "name": "gload.to",
+      "url": "https://gload.to/",
+      "domain": "gload.to",
+      "category": "games",
+      "categoryName": "Games",
+      "categoryIcon": "🎮",
+      "subcategory": "All",
+      "tags": [
+        "PC",
+        "Repacks"
+      ],
+      "featured": false,
+      "popularity": 87
+    },
+    {
+      "id": "music-1",
+      "name": "spotdownloader.com",
+      "url": "https://spotdownloader.com/",
+      "domain": "spotdownloader.com",
+      "category": "music",
+      "categoryName": "Music",
+      "categoryIcon": "🎵",
+      "subcategory": "Spotify",
+      "tags": [
+        "Music",
+        "Download",
+        "Spotify"
+      ],
+      "featured": true,
+      "popularity": 98
+    },
+    {
+      "id": "music-2",
+      "name": "spotifymate.com",
+      "url": "https://spotifymate.com/en",
+      "domain": "spotifymate.com",
+      "category": "music",
+      "categoryName": "Music",
+      "categoryIcon": "🎵",
+      "subcategory": "Spotify",
+      "tags": [
+        "Music",
+        "Download",
+        "Spotify"
+      ],
+      "featured": true,
+      "popularity": 96
+    },
+    {
+      "id": "music-3",
+      "name": "spotmate.online",
+      "url": "https://spotmate.online/",
+      "domain": "spotmate.online",
+      "category": "music",
+      "categoryName": "Music",
+      "categoryIcon": "🎵",
+      "subcategory": "Spotify",
+      "tags": [
+        "Music",
+        "Download",
+        "Spotify"
+      ],
+      "featured": true,
+      "popularity": 95
+    },
+    {
+      "id": "music-4",
+      "name": "y2mate.nu",
+      "url": "https://v1.y2mate.nu/",
+      "domain": "v1.y2mate.nu",
+      "category": "music",
+      "categoryName": "Music",
+      "categoryIcon": "🎵",
+      "subcategory": "Youtube",
+      "tags": [
+        "Music",
+        "Download",
+        "Youtube"
+      ],
+      "featured": false,
+      "popularity": 93
+    },
+    {
+      "id": "music-5",
+      "name": "azmp3.cc",
+      "url": "https://azmp3.cc/",
+      "domain": "azmp3.cc",
+      "category": "music",
+      "categoryName": "Music",
+      "categoryIcon": "🎵",
+      "subcategory": "Youtube",
+      "tags": [
+        "Music",
+        "Download",
+        "Youtube"
+      ],
+      "featured": false,
+      "popularity": 92
+    },
+    {
+      "id": "music-6",
+      "name": "ytmp3.cc",
+      "url": "https://ytmp3.cc/",
+      "domain": "ytmp3.cc",
+      "category": "music",
+      "categoryName": "Music",
+      "categoryIcon": "🎵",
+      "subcategory": "Youtube",
+      "tags": [
+        "Music",
+        "Download",
+        "Youtube"
+      ],
+      "featured": false,
+      "popularity": 90
+    },
+    {
+      "id": "music-7",
+      "name": "racoon",
+      "url": "https://shailendramaurya.github.io/racoon/",
+      "domain": "shailendramaurya.github.io",
+      "category": "music",
+      "categoryName": "Music",
+      "categoryIcon": "🎵",
+      "subcategory": "Multiple",
+      "tags": [
+        "Music",
+        "Download",
+        "Multiple"
+      ],
+      "featured": false,
+      "popularity": 89
+    },
+    {
+      "id": "music-8",
+      "name": "ytiz.xyz",
+      "url": "https://ytiz.xyz/",
+      "domain": "ytiz.xyz",
+      "category": "music",
+      "categoryName": "Music",
+      "categoryIcon": "🎵",
+      "subcategory": "Multiple",
+      "tags": [
+        "Music",
+        "Download",
+        "Multiple"
+      ],
+      "featured": false,
+      "popularity": 87
+    },
+    {
+      "id": "music-9",
+      "name": "lucida.to",
+      "url": "https://lucida.to/",
+      "domain": "lucida.to",
+      "category": "music",
+      "categoryName": "Music",
+      "categoryIcon": "🎵",
+      "subcategory": "Multiple",
+      "tags": [
+        "Music",
+        "Download",
+        "Multiple"
+      ],
+      "featured": false,
+      "popularity": 86
+    },
+    {
+      "id": "music-10",
+      "name": "cobalt.tools",
+      "url": "#",
+      "domain": "#",
+      "category": "music",
+      "categoryName": "Music",
+      "categoryIcon": "🎵",
+      "subcategory": "Multiple",
+      "tags": [
+        "Music",
+        "Download",
+        "Multiple"
+      ],
+      "featured": false,
+      "popularity": 84
+    },
+    {
+      "id": "music-11",
+      "name": "slsknet.org",
+      "url": "https://www.slsknet.org/",
+      "domain": "slsknet.org",
+      "category": "music",
+      "categoryName": "Music",
+      "categoryIcon": "🎵",
+      "subcategory": "Software",
+      "tags": [
+        "Music",
+        "Download",
+        "Software"
+      ],
+      "featured": false,
+      "popularity": 83
+    },
+    {
+      "id": "music-12",
+      "name": "spotube.dev",
+      "url": "https://spotube.krtirtho.dev/",
+      "domain": "spotube.krtirtho.dev",
+      "category": "music",
+      "categoryName": "Music",
+      "categoryIcon": "🎵",
+      "subcategory": "Software",
+      "tags": [
+        "Music",
+        "Download",
+        "Software"
+      ],
+      "featured": false,
+      "popularity": 81
+    },
+    {
+      "id": "music-13",
+      "name": "github.io/downline",
+      "url": "https://stefnotch.github.io/downline/",
+      "domain": "stefnotch.github.io",
+      "category": "music",
+      "categoryName": "Music",
+      "categoryIcon": "🎵",
+      "subcategory": "Software",
+      "tags": [
+        "Music",
+        "Download",
+        "Software"
+      ],
+      "featured": false,
+      "popularity": 80
+    },
+    {
+      "id": "ebooks-1",
+      "name": "z-lib.fm",
+      "url": "https://z-lib.fm/",
+      "domain": "z-lib.fm",
+      "category": "ebooks",
+      "categoryName": "eBooks",
+      "categoryIcon": "📚",
+      "subcategory": "All",
+      "tags": [
+        "Books",
+        "PDF/EPUB"
+      ],
+      "featured": true,
+      "popularity": 98
+    },
+    {
+      "id": "ebooks-2",
+      "name": "annas-archive.gl",
+      "url": "https://annas-archive.gl/",
+      "domain": "annas-archive.gl",
+      "category": "ebooks",
+      "categoryName": "eBooks",
+      "categoryIcon": "📚",
+      "subcategory": "All",
+      "tags": [
+        "Books",
+        "PDF/EPUB"
+      ],
+      "featured": true,
+      "popularity": 96
+    },
+    {
+      "id": "ebooks-3",
+      "name": "libgen.li",
+      "url": "https://libgen.li/",
+      "domain": "libgen.li",
+      "category": "ebooks",
+      "categoryName": "eBooks",
+      "categoryIcon": "📚",
+      "subcategory": "All",
+      "tags": [
+        "Books",
+        "PDF/EPUB"
+      ],
+      "featured": true,
+      "popularity": 95
+    },
+    {
+      "id": "ebooks-4",
+      "name": "ebook-hunter.org",
+      "url": "https://ebook-hunter.org/",
+      "domain": "ebook-hunter.org",
+      "category": "ebooks",
+      "categoryName": "eBooks",
+      "categoryIcon": "📚",
+      "subcategory": "All",
+      "tags": [
+        "Books",
+        "PDF/EPUB"
+      ],
+      "featured": false,
+      "popularity": 93
+    },
+    {
+      "id": "ebooks-5",
+      "name": "fulllengthaudiobooks.com",
+      "url": "https://fulllengthaudiobooks.com/",
+      "domain": "fulllengthaudiobooks.com",
+      "category": "ebooks",
+      "categoryName": "eBooks",
+      "categoryIcon": "📚",
+      "subcategory": "Audiobooks",
+      "tags": [
+        "Books",
+        "Audiobooks"
+      ],
+      "featured": false,
+      "popularity": 92
+    },
+    {
+      "id": "ebooks-6",
+      "name": "audiobookbay.lu",
+      "url": "https://audiobookbay.lu/",
+      "domain": "audiobookbay.lu",
+      "category": "ebooks",
+      "categoryName": "eBooks",
+      "categoryIcon": "📚",
+      "subcategory": "Audiobooks",
+      "tags": [
+        "Books",
+        "Audiobooks"
+      ],
+      "featured": false,
+      "popularity": 90
+    },
+    {
+      "id": "ebooks-7",
+      "name": "nepu.to",
+      "url": "https://nepu.to/ebooks",
+      "domain": "nepu.to",
+      "category": "ebooks",
+      "categoryName": "eBooks",
+      "categoryIcon": "📚",
+      "subcategory": "Audiobooks",
+      "tags": [
+        "Books",
+        "Audiobooks"
+      ],
+      "featured": false,
+      "popularity": 89
+    },
+    {
+      "id": "ebooks-8",
+      "name": "foxit.com",
+      "url": "https://www.foxit.com/pdf-reader/",
+      "domain": "foxit.com",
+      "category": "ebooks",
+      "categoryName": "eBooks",
+      "categoryIcon": "📚",
+      "subcategory": "eBook Readers",
+      "tags": [
+        "Books",
+        "eBook Readers"
+      ],
+      "featured": false,
+      "popularity": 87
+    },
+    {
+      "id": "ebooks-9",
+      "name": "flowoss.com",
+      "url": "https://www.flowoss.com/",
+      "domain": "flowoss.com",
+      "category": "ebooks",
+      "categoryName": "eBooks",
+      "categoryIcon": "📚",
+      "subcategory": "eBook Readers",
+      "tags": [
+        "Books",
+        "eBook Readers"
+      ],
+      "featured": false,
+      "popularity": 86
+    },
+    {
+      "id": "comics-1",
+      "name": "https://globalcomix.com/",
+      "url": "https://globalcomix.com/",
+      "domain": "globalcomix.com",
+      "category": "comics",
+      "categoryName": "Comics",
+      "categoryIcon": "🦸",
+      "subcategory": "All",
+      "tags": [
+        "Comics",
+        "Graphic Novels"
+      ],
+      "featured": true,
+      "popularity": 98
+    },
+    {
+      "id": "comics-2",
+      "name": "xoxocomic.com",
+      "url": "https://xoxocomic.com/",
+      "domain": "xoxocomic.com",
+      "category": "comics",
+      "categoryName": "Comics",
+      "categoryIcon": "🦸",
+      "subcategory": "All",
+      "tags": [
+        "Comics",
+        "Graphic Novels"
+      ],
+      "featured": true,
+      "popularity": 96
+    },
+    {
+      "id": "comics-3",
+      "name": "comicbookplus.com",
+      "url": "https://comicbookplus.com/",
+      "domain": "comicbookplus.com",
+      "category": "comics",
+      "categoryName": "Comics",
+      "categoryIcon": "🦸",
+      "subcategory": "All",
+      "tags": [
+        "Comics",
+        "Graphic Novels"
+      ],
+      "featured": true,
+      "popularity": 95
+    },
+    {
+      "id": "comics-4",
+      "name": "batcave.biz",
+      "url": "https://batcave.biz/",
+      "domain": "batcave.biz",
+      "category": "comics",
+      "categoryName": "Comics",
+      "categoryIcon": "🦸",
+      "subcategory": "All",
+      "tags": [
+        "Comics",
+        "Graphic Novels"
+      ],
+      "featured": false,
+      "popularity": 93
+    },
+    {
+      "id": "comics-5",
+      "name": "getcomics.org",
+      "url": "https://getcomics.org/",
+      "domain": "getcomics.org",
+      "category": "comics",
+      "categoryName": "Comics",
+      "categoryIcon": "🦸",
+      "subcategory": "All",
+      "tags": [
+        "Comics",
+        "Graphic Novels"
+      ],
+      "featured": false,
+      "popularity": 92
+    },
+    {
+      "id": "asian-drama-1",
+      "name": "asiaflix.net",
+      "url": "https://asiaflix.net/home",
+      "domain": "asiaflix.net",
+      "category": "asian-drama",
+      "categoryName": "Asian Drama",
+      "categoryIcon": "🎭",
+      "subcategory": "All",
+      "tags": [
+        "Drama",
+        "K-Drama/C-Drama"
+      ],
+      "featured": true,
+      "popularity": 98
+    },
+    {
+      "id": "asian-drama-2",
+      "name": "kisskh.id",
+      "url": "https://kisskh.id/",
+      "domain": "kisskh.id",
+      "category": "asian-drama",
+      "categoryName": "Asian Drama",
+      "categoryIcon": "🎭",
+      "subcategory": "All",
+      "tags": [
+        "Drama",
+        "K-Drama/C-Drama"
+      ],
+      "featured": true,
+      "popularity": 96
+    },
+    {
+      "id": "asian-drama-3",
+      "name": "goplay.su",
+      "url": "https://goplay.su/",
+      "domain": "goplay.su",
+      "category": "asian-drama",
+      "categoryName": "Asian Drama",
+      "categoryIcon": "🎭",
+      "subcategory": "All",
+      "tags": [
+        "Drama",
+        "K-Drama/C-Drama"
+      ],
+      "featured": true,
+      "popularity": 95
+    },
+    {
+      "id": "asian-drama-4",
+      "name": "kissasian.com.lv",
+      "url": "https://ww14.kissasian.com.lv/",
+      "domain": "ww14.kissasian.com.lv",
+      "category": "asian-drama",
+      "categoryName": "Asian Drama",
+      "categoryIcon": "🎭",
+      "subcategory": "All",
+      "tags": [
+        "Drama",
+        "K-Drama/C-Drama"
+      ],
+      "featured": false,
+      "popularity": 93
+    },
+    {
+      "id": "asian-drama-5",
+      "name": "dramacool.com.tr",
+      "url": "https://dramacool.com.tr/",
+      "domain": "dramacool.com.tr",
+      "category": "asian-drama",
+      "categoryName": "Asian Drama",
+      "categoryIcon": "🎭",
+      "subcategory": "All",
+      "tags": [
+        "Drama",
+        "K-Drama/C-Drama"
+      ],
+      "featured": false,
+      "popularity": 92
+    },
+    {
+      "id": "asian-drama-6",
+      "name": "asianctv.cc",
+      "url": "https://asianctv.cc/",
+      "domain": "asianctv.cc",
+      "category": "asian-drama",
+      "categoryName": "Asian Drama",
+      "categoryIcon": "🎭",
+      "subcategory": "All",
+      "tags": [
+        "Drama",
+        "K-Drama/C-Drama"
+      ],
+      "featured": false,
+      "popularity": 90
+    },
+    {
+      "id": "asian-drama-7",
+      "name": "myasiantv.com.bz",
+      "url": "https://myasiantv.com.bz/",
+      "domain": "myasiantv.com.bz",
+      "category": "asian-drama",
+      "categoryName": "Asian Drama",
+      "categoryIcon": "🎭",
+      "subcategory": "All",
+      "tags": [
+        "Drama",
+        "K-Drama/C-Drama"
+      ],
+      "featured": false,
+      "popularity": 89
+    },
+    {
+      "id": "asian-drama-8",
+      "name": "kisskh.club",
+      "url": "https://kisskh.club/",
+      "domain": "kisskh.club",
+      "category": "asian-drama",
+      "categoryName": "Asian Drama",
+      "categoryIcon": "🎭",
+      "subcategory": "All",
+      "tags": [
+        "Drama",
+        "K-Drama/C-Drama"
+      ],
+      "featured": false,
+      "popularity": 87
+    },
+    {
+      "id": "vpn-1",
+      "name": "Proton VPN",
+      "url": "https://go.getproton.me/SH2ba",
+      "domain": "go.getproton.me",
+      "category": "vpn",
+      "categoryName": "VPN Tools",
+      "categoryIcon": "🛡️",
+      "subcategory": "All",
+      "notes": "Most popular",
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "featured": true,
+      "popularity": 98
+    },
+    {
+      "id": "vpn-2",
+      "name": "Surfshark VPN",
+      "url": "https://www.dpbolvw.net/click-101290998-15438560",
+      "domain": "dpbolvw.net",
+      "category": "vpn",
+      "categoryName": "VPN Tools",
+      "categoryIcon": "🛡️",
+      "subcategory": "All",
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "featured": true,
+      "popularity": 96
+    },
+    {
+      "id": "vpn-3",
+      "name": "ExpressVPN",
+      "url": "https://www.jdoqocy.com/click-101290998-15230984",
+      "domain": "jdoqocy.com",
+      "category": "vpn",
+      "categoryName": "VPN Tools",
+      "categoryIcon": "🛡️",
+      "subcategory": "All",
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "featured": true,
+      "popularity": 95
+    },
+    {
+      "id": "vpn-4",
+      "name": "CyberGhost VPN",
+      "url": "https://www.dpbolvw.net/click-101290998-15024066",
+      "domain": "dpbolvw.net",
+      "category": "vpn",
+      "categoryName": "VPN Tools",
+      "categoryIcon": "🛡️",
+      "subcategory": "All",
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "featured": false,
+      "popularity": 93
+    },
+    {
+      "id": "vpn-5",
+      "name": "Private Internet Access VPN",
+      "url": "https://www.tkqlhce.com/click-101290998-14096959",
+      "domain": "tkqlhce.com",
+      "category": "vpn",
+      "categoryName": "VPN Tools",
+      "categoryIcon": "🛡️",
+      "subcategory": "All",
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "featured": false,
+      "popularity": 92
+    },
+    {
+      "id": "vpn-6",
+      "name": "VeePN",
+      "url": "https://www.tkqlhce.com/click-101290998-15736524",
+      "domain": "tkqlhce.com",
+      "category": "vpn",
+      "categoryName": "VPN Tools",
+      "categoryIcon": "🛡️",
+      "subcategory": "All",
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "featured": false,
+      "popularity": 90
+    },
+    {
+      "id": "adblockers-1",
+      "name": "Opera Browser",
+      "url": "https://www.dpbolvw.net/click-101290998-15736592",
+      "domain": "dpbolvw.net",
+      "category": "adblockers",
+      "categoryName": "AdBlockers",
+      "categoryIcon": "🚫",
+      "subcategory": "All",
+      "notes": "Built-in Adblocker",
+      "tags": [
+        "Extension",
+        "AdBlock"
+      ],
+      "featured": true,
+      "popularity": 98
+    },
+    {
+      "id": "adblockers-2",
+      "name": "uBlock Origin",
+      "url": "https://ublockorigin.com/",
+      "domain": "ublockorigin.com",
+      "category": "adblockers",
+      "categoryName": "AdBlockers",
+      "categoryIcon": "🚫",
+      "subcategory": "All",
+      "tags": [
+        "Extension",
+        "AdBlock"
+      ],
+      "featured": true,
+      "popularity": 96
+    },
+    {
+      "id": "adblockers-3",
+      "name": "AdBlock Plus",
+      "url": "https://adblockplus.org/",
+      "domain": "adblockplus.org",
+      "category": "adblockers",
+      "categoryName": "AdBlockers",
+      "categoryIcon": "🚫",
+      "subcategory": "All",
+      "tags": [
+        "Extension",
+        "AdBlock"
+      ],
+      "featured": true,
+      "popularity": 95
+    },
+    {
+      "id": "adblockers-4",
+      "name": "AdGuard",
+      "url": "https://adguard.com/",
+      "domain": "adguard.com",
+      "category": "adblockers",
+      "categoryName": "AdBlockers",
+      "categoryIcon": "🚫",
+      "subcategory": "All",
+      "tags": [
+        "Extension",
+        "AdBlock"
+      ],
+      "featured": false,
+      "popularity": 93
+    },
+    {
+      "id": "adblockers-5",
+      "name": "AdBlock",
+      "url": "https://getadblock.com/en/",
+      "domain": "getadblock.com",
+      "category": "adblockers",
+      "categoryName": "AdBlockers",
+      "categoryIcon": "🚫",
+      "subcategory": "All",
+      "tags": [
+        "Extension",
+        "AdBlock"
+      ],
+      "featured": false,
+      "popularity": 92
+    },
+    {
+      "id": "adblockers-6",
+      "name": "Poper Blocker",
+      "url": "https://poperblocker.com/",
+      "domain": "poperblocker.com",
+      "category": "adblockers",
+      "categoryName": "AdBlockers",
+      "categoryIcon": "🚫",
+      "subcategory": "All",
+      "tags": [
+        "Extension",
+        "AdBlock"
+      ],
+      "featured": false,
+      "popularity": 90
+    },
+    {
+      "id": "adult-1",
+      "name": "Casino / Gambling",
+      "url": "https://ahoylist.net/18casino-list",
+      "domain": "ahoylist.net",
+      "category": "adult",
+      "categoryName": "Adult & 18+",
+      "categoryIcon": "🔞",
+      "subcategory": "Casino / Gambling",
+      "notes": "Age restricted 18+",
+      "tags": [
+        "18+",
+        "Casino / Gambling"
+      ],
+      "featured": false,
+      "popularity": 85
+    },
+    {
+      "id": "adult-2",
+      "name": "Porn",
+      "url": "https://ahoylist.net/18porn-list",
+      "domain": "ahoylist.net",
+      "category": "adult",
+      "categoryName": "Adult & 18+",
+      "categoryIcon": "🔞",
+      "subcategory": "Porn",
+      "notes": "Age restricted 18+",
+      "tags": [
+        "18+",
+        "Porn"
+      ],
+      "featured": false,
+      "popularity": 85
+    }
+  ]
+}
