@@ -21,7 +21,7 @@ const communityLinks = [
   },
   {
     label: "Reddit",
-    href: "https://reddit.com/r/ahoylistnet/",
+    href: "https://www.reddit.com/user/ScrollHub",
     icon: ArrowUpRight,
   },
   {
