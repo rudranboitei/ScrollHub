@@ -1,9 +1,10 @@
-"use client"
+"use client";
 
-import React, { useState } from "react"
-import { ExternalLink, Copy, Check, Heart } from "lucide-react"
-import { MediaSite } from "@/data/mediaData"
-import { cn } from "@/lib/utils"
+import Image from "next/image";
+import { useState, type MouseEvent } from "react";
+import { Check, Copy, ExternalLink, Heart } from "lucide-react";
+import type { MediaSite } from "@/data/mediaData";
+import { cn } from "@/lib/utils";
 
 interface SiteListItemProps {
   site: MediaSite;
@@ -18,117 +19,104 @@ export function SiteListItem({
   onToggleFavorite,
   onSelectCategory,
 }: SiteListItemProps) {
-  const [copied, setCopied] = useState(false)
-  const [imgError, setImgError] = useState(false)
+  const [copied, setCopied] = useState(false);
+  const [imageError, setImageError] = useState(false);
 
-  const handleCopy = async (e: React.MouseEvent) => {
-    e.preventDefault()
-    e.stopPropagation()
+  const handleCopy = async (event: MouseEvent<HTMLButtonElement>) => {
+    event.stopPropagation();
     try {
-      await navigator.clipboard.writeText(site.url)
-      setCopied(true)
-      setTimeout(() => setCopied(false), 2000)
+      await navigator.clipboard.writeText(site.url);
+      setCopied(true);
+      window.setTimeout(() => setCopied(false), 1800);
     } catch {
-      setCopied(true)
-      setTimeout(() => setCopied(false), 2000)
+      // Clipboard access can be unavailable outside secure contexts.
     }
-  }
-
-  const faviconUrl = `https://www.google.com/s2/favicons?domain=${site.domain}&sz=32`
+  };
 
   return (
-    <div className="group flex items-center justify-between gap-4 rounded-xl border border-white/[0.06] bg-zinc-900/40 p-3 backdrop-blur-sm transition-all hover:border-white/15 hover:bg-zinc-900/80">
-      {/* Left: Favicon + Name + Domain */}
-      <div className="flex items-center gap-3 min-w-0">
-        <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg border border-white/10 bg-zinc-950 p-1">
-          {!imgError ? (
-            <img
-              src={faviconUrl}
+    <article className="group flex items-center justify-between gap-3 rounded-full border border-black/5 bg-white py-2 pl-2 pr-2.5 transition-colors hover:bg-black/[0.02] sm:gap-4 sm:py-2.5 sm:pl-3 sm:pr-3">
+      <div className="flex min-w-0 flex-1 items-center gap-3">
+        <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-black/5 bg-black/[0.03] p-1.5">
+          {!imageError ? (
+            <Image
+              src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=32`}
               alt=""
-              className="h-4 w-4 rounded object-contain"
-              onError={() => setImgError(true)}
-              loading="lazy"
+              width={16}
+              height={16}
+              className="h-4 w-4 object-contain"
+              onError={() => setImageError(true)}
             />
           ) : (
-            <span className="text-sm">{site.categoryIcon}</span>
+            <span aria-hidden="true">{site.categoryIcon}</span>
           )}
         </div>
 
         <div className="min-w-0">
-          <div className="flex items-center gap-2">
-            <span className="truncate text-sm font-semibold text-white group-hover:text-rose-300 transition-colors">
+          <div className="flex min-w-0 items-center gap-2">
+            <h3 className="truncate text-sm font-bold tracking-tight text-black">
               {site.name}
-            </span>
-
+            </h3>
             {site.notes && (
-              <span className="hidden sm:inline-flex items-center rounded bg-amber-500/10 border border-amber-500/20 px-1.5 py-0.2 text-[10px] font-medium text-amber-300 truncate">
+              <span className="hidden shrink-0 text-[10px] text-black/35 lg:inline">
                 {site.notes}
               </span>
             )}
           </div>
-
-          <p className="truncate font-mono text-xs text-zinc-400">
+          <p className="mt-0.5 truncate text-[10px] text-black/35">
             {site.domain}
           </p>
         </div>
       </div>
 
-      {/* Center: Category Badge */}
-      <div className="hidden md:flex items-center gap-2">
-        <button
-          onClick={() => onSelectCategory && onSelectCategory(site.category)}
-          className="inline-flex items-center gap-1 rounded-md border border-white/10 bg-white/5 px-2 py-0.5 text-xs text-zinc-300 hover:text-white"
-        >
-          <span>{site.categoryIcon}</span>
-          <span>{site.categoryName}</span>
-        </button>
+      <button
+        type="button"
+        onClick={() => onSelectCategory?.(site.category)}
+        className="hidden max-w-40 truncate rounded-full px-3 py-1.5 text-xs font-semibold text-black/45 transition-colors hover:bg-black/[0.05] hover:text-black focus-visible:outline-2 focus-visible:outline-black/30 md:block"
+        title={`Browse ${site.categoryName}`}
+      >
+        {site.categoryName}
+      </button>
 
-        {site.subcategory && site.subcategory !== "All" && (
-          <span className="rounded-md bg-white/5 border border-white/5 px-2 py-0.5 text-[11px] text-zinc-400">
-            {site.subcategory}
-          </span>
-        )}
-      </div>
-
-      {/* Right: Actions */}
-      <div className="flex items-center gap-2 shrink-0">
+      <div className="flex shrink-0 items-center gap-1">
         <button
+          type="button"
           onClick={handleCopy}
-          className="flex h-8 w-8 items-center justify-center rounded-lg border border-white/10 bg-zinc-950/60 text-zinc-400 hover:text-white transition-colors"
-          title="Copy URL"
+          className="flex h-8 w-8 items-center justify-center rounded-full text-black/40 transition-colors hover:bg-black/[0.05] hover:text-black focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black/30"
+          aria-label={copied ? "Link copied" : `Copy link to ${site.name}`}
+          title="Copy link"
         >
           {copied ? (
-            <Check className="h-3.5 w-3.5 text-emerald-400" />
+            <Check className="h-3.5 w-3.5 text-black" />
           ) : (
             <Copy className="h-3.5 w-3.5" />
           )}
         </button>
 
         <button
+          type="button"
           onClick={() => onToggleFavorite(site.id)}
           className={cn(
-            "flex h-8 w-8 items-center justify-center rounded-lg border transition-all",
+            "flex h-8 w-8 items-center justify-center rounded-full transition-colors focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black/30",
             isFavorite
-              ? "border-rose-500/50 bg-rose-500/20 text-rose-400"
-              : "border-white/10 bg-zinc-950/60 text-zinc-400 hover:text-white"
+              ? "bg-black text-white"
+              : "text-black/40 hover:bg-black/[0.05] hover:text-black",
           )}
-          title={isFavorite ? "Remove favorite" : "Add to favorites"}
+          aria-label={isFavorite ? `Remove ${site.name} from saved sites` : `Save ${site.name}`}
+          title={isFavorite ? "Remove from saved" : "Save site"}
         >
-          <Heart
-            className={cn("h-3.5 w-3.5", isFavorite ? "fill-rose-500 text-rose-500" : "")}
-          />
+          <Heart className={cn("h-3.5 w-3.5", isFavorite && "fill-current")} />
         </button>
 
         <a
           href={site.url}
           target="_blank"
           rel="noopener noreferrer"
-          className="flex items-center gap-1 rounded-lg bg-rose-600 hover:bg-rose-500 text-white px-2.5 py-1.5 text-xs font-medium shadow-sm transition-all"
+          className="inline-flex h-8 items-center gap-1.5 rounded-full bg-black px-3 text-xs font-bold text-white shadow-sm transition-all duration-200 hover:bg-black/80 hover:shadow-md focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black/30"
         >
-          <span>Visit</span>
-          <ExternalLink className="h-3 w-3" />
+          <span className="hidden sm:inline">Visit</span>
+          <ExternalLink className="h-3.5 w-3.5" />
         </a>
       </div>
-    </div>
-  )
+    </article>
+  );
 }

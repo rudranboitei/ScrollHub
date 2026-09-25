@@ -1,38 +1,26 @@
 import type { Metadata } from "next";
-import { Inter, JetBrains_Mono } from "next/font/google";
+import type { ReactNode } from "react";
+import { Manrope } from "next/font/google";
 import "./globals.css";
-import { cn } from "@/lib/utils";
 
-const inter = Inter({
+const manrope = Manrope({
   subsets: ["latin"],
-  variable: "--font-sans",
-});
-
-const mono = JetBrains_Mono({
-  subsets: ["latin"],
-  variable: "--font-mono",
+  variable: "--font-manrope",
+  display: "swap",
+  fallback: ["Manrope Fallback", "Arial", "sans-serif"],
+  adjustFontFallback: true,
 });
 
 export const metadata: Metadata = {
-  title: "AhoyIndex • The Seven Seas Streaming & Media Directory",
+  title: "ScrollHub — Web & Media Directory",
   description:
-    "Curated index of 164+ hand-tested streaming portals, movies, anime, live sports, TV, manga, torrents, and privacy tools.",
-  icons: {
-    icon: "https://ahoylist.net/pirate.ico",
-  },
+    "A searchable directory of 164 streaming, media, download, gaming, and privacy links.",
 };
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+export default function RootLayout({ children }: { children: ReactNode }) {
   return (
-    <html
-      lang="en"
-      className={cn("dark h-full antialiased", inter.variable, mono.variable)}
-    >
-      <body className="min-h-full flex flex-col bg-[#08090d] text-zinc-100 font-sans selection:bg-rose-500/30 selection:text-rose-200">
+    <html lang="en" className={manrope.variable}>
+      <body className="min-h-full bg-background font-sans text-foreground antialiased">
         {children}
       </body>
     </html>

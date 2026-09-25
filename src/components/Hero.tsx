@@ -1,15 +1,27 @@
-"use client"
+"use client";
 
-import React, { useRef, useEffect } from "react"
-import { Search, X, Sparkles, ShieldCheck, Film, Zap, ArrowRight } from "lucide-react"
-import { Badge } from "@/components/ui/badge"
+import { useEffect, useRef } from "react";
+import { ArrowDown, Search, Shuffle, X } from "lucide-react";
 
 interface HeroProps {
   searchQuery: string;
-  setSearchQuery: (q: string) => void;
+  setSearchQuery: (query: string) => void;
   totalSites: number;
   totalCategories: number;
-  onSelectCategory: (slug: string) => void;
+  onRandomPick: () => void;
+}
+
+function GithubIcon({ className = "h-4 w-4" }: { className?: string }) {
+  return (
+    <svg
+      aria-hidden="true"
+      className={className}
+      viewBox="0 0 24 24"
+      fill="currentColor"
+    >
+      <path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.53 1.032 1.53 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" />
+    </svg>
+  );
 }
 
 export function Hero({
@@ -17,107 +29,141 @@ export function Hero({
   setSearchQuery,
   totalSites,
   totalCategories,
-  onSelectCategory,
+  onRandomPick,
 }: HeroProps) {
-  const searchInputRef = useRef<HTMLInputElement>(null)
+  const searchInputRef = useRef<HTMLInputElement>(null);
 
-  // Listen for Cmd+K / Ctrl+K
   useEffect(() => {
-    const handleKeyDown = (e: KeyboardEvent) => {
-      if ((e.metaKey || e.ctrlKey) && e.key === "k") {
-        e.preventDefault()
-        searchInputRef.current?.focus()
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === "k") {
+        event.preventDefault();
+        searchInputRef.current?.focus();
       }
-    }
-    window.addEventListener("keydown", handleKeyDown)
-    return () => window.removeEventListener("keydown", handleKeyDown)
-  }, [])
+    };
 
-  const quickPills = [
-    { label: "Movies & TV", slug: "movies-tv", icon: "🎬" },
-    { label: "Anime", slug: "anime", icon: "🍥" },
-    { label: "Live Sports", slug: "live-sports", icon: "⚽" },
-    { label: "Torrents", slug: "torrents", icon: "🧲" },
-    { label: "eBooks", slug: "ebooks", icon: "📚" },
-    { label: "VPN Tools", slug: "vpn", icon: "🛡️" },
-  ]
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, []);
+
+  const browseDirectory = () => {
+    document.getElementById("content-section")?.scrollIntoView({
+      behavior: "smooth",
+      block: "start",
+    });
+  };
 
   return (
-    <div className="relative overflow-hidden pt-8 pb-10 sm:pt-14 sm:pb-12 border-b border-white/[0.06]">
-      {/* Background glow effects */}
-      <div className="pointer-events-none absolute inset-0 flex items-center justify-center">
-        <div className="h-96 w-[700px] rounded-full bg-gradient-to-tr from-rose-500/10 via-indigo-500/10 to-teal-500/10 blur-3xl" />
-      </div>
+    <section className="bg-white">
+      <div className="mx-auto max-w-3xl px-6 pt-12 pb-20 sm:px-12 sm:pt-24 sm:pb-32">
+        <button
+          type="button"
+          onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+          className="mb-8 block text-black focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black/30 sm:mb-12"
+          aria-label="Back to top"
+        >
+          <svg
+            aria-hidden="true"
+            width="40"
+            height="40"
+            viewBox="0 0 24 24"
+            fill="none"
+            className="transition-transform duration-700 ease-out hover:rotate-90"
+          >
+            <path
+              d="M12 2V22M2 12H22M4.92893 4.92893L19.0711 19.0711M4.92893 19.0711L19.0711 4.92893"
+              stroke="currentColor"
+              strokeWidth="2.5"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            />
+          </svg>
+        </button>
 
-      <div className="relative mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 text-center">
-        {/* Top badge */}
-        <div className="inline-flex items-center gap-2 rounded-full border border-rose-500/30 bg-rose-500/10 px-3.5 py-1 text-xs font-medium text-rose-300 backdrop-blur-md mb-6 shadow-sm shadow-rose-500/10 animate-fade-in">
-          <Sparkles className="h-3.5 w-3.5 text-rose-400 animate-spin-slow" />
-          <span>Curated Media &amp; Streaming Index • {totalSites} Active Sources</span>
-        </div>
-
-        {/* Title */}
-        <h1 className="text-3xl font-extrabold tracking-tight text-white sm:text-5xl lg:text-6xl font-sans">
-          Stream Everything.{" "}
-          <span className="bg-gradient-to-r from-rose-400 via-amber-300 to-teal-300 bg-clip-text text-transparent">
-            No Fluff, No Slop.
-          </span>
-        </h1>
-
-        {/* Subtitle */}
-        <p className="mx-auto mt-4 max-w-2xl text-sm sm:text-base text-zinc-300 leading-relaxed font-normal">
-          The definitive index extracted straight from the seven seas. Movies, anime, sports streams,
-          manga, books, games, and essential privacy tools — all clean, organized, and hand-verified.
-        </p>
-
-        {/* Search input container */}
-        <div className="mx-auto mt-8 max-w-2xl">
-          <div className="group relative flex items-center rounded-2xl border border-white/15 bg-zinc-900/80 p-1.5 shadow-2xl backdrop-blur-xl transition-all focus-within:border-rose-500/60 focus-within:ring-4 focus-within:ring-rose-500/15">
-            <div className="pl-3 text-zinc-400 group-focus-within:text-rose-400 transition-colors">
-              <Search className="h-5 w-5" />
+        <header className="max-w-2xl animate-enter">
+          <div className="animate-enter-delay-1 mb-10 flex items-center gap-3">
+            <div className="flex items-center gap-2 rounded-full border border-black/5 bg-black/[0.03] px-2.5 py-1.5 transition-colors hover:bg-black/[0.05]">
+              <span className="flex h-6 w-6 items-center justify-center rounded-full bg-black text-sm text-white">
+                ✳
+              </span>
+              <span className="text-xs font-bold text-black/80">ScrollHub</span>
+              <span className="text-xs text-black/30">
+                {totalSites} sites · {totalCategories} categories
+              </span>
             </div>
 
-            <input
-              ref={searchInputRef}
-              type="text"
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-              placeholder="Search by site name, category, domain, or tag (e.g. soap2night, anime, 1337x, vpn)..."
-              className="w-full bg-transparent px-3 py-2.5 text-sm sm:text-base text-white placeholder:text-zinc-500 focus:outline-none"
-            />
-
-            {searchQuery ? (
-              <button
-                onClick={() => setSearchQuery("")}
-                className="rounded-lg p-1.5 text-zinc-400 hover:bg-white/10 hover:text-white transition-colors"
-                title="Clear search"
-              >
-                <X className="h-4 w-4" />
-              </button>
-            ) : (
-              <div className="hidden sm:flex items-center gap-1 pr-3 text-[11px] font-semibold text-zinc-500">
-                <kbd className="rounded border border-white/10 bg-white/5 px-1.5 py-0.5 font-mono">⌘</kbd>
-                <kbd className="rounded border border-white/10 bg-white/5 px-1.5 py-0.5 font-mono">K</kbd>
-              </div>
-            )}
+            <a
+              href="https://github.com/rudranboitei/ScrollHub"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="ScrollHub on GitHub"
+              className="flex h-9 w-9 items-center justify-center rounded-full border border-black/5 bg-black/[0.03] text-black transition-colors hover:bg-black/[0.06] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black/30"
+            >
+              <GithubIcon />
+            </a>
           </div>
 
-          {/* Quick filter pills */}
-          <div className="mt-4 flex flex-wrap items-center justify-center gap-2 text-xs">
-            <span className="text-zinc-500 font-medium mr-1">Quick jumps:</span>
-            {quickPills.map((pill) => (
-              <button
-                key={pill.slug}
-                onClick={() => onSelectCategory(pill.slug)}
-                className="inline-flex items-center gap-1.5 rounded-full border border-white/10 bg-zinc-900/60 px-3 py-1 text-zinc-300 hover:border-white/20 hover:bg-white/10 hover:text-white transition-all text-xs"
-              >
-                <span>{pill.icon}</span>
-                <span>{pill.label}</span>
-              </button>
-            ))}
+          <h1 className="text-[28px] font-bold leading-snug tracking-tight text-black sm:text-[36px]">
+            Web &amp; Media Directory.
+          </h1>
+          <p className="mt-4 mb-10 max-w-[94%] text-[14px] leading-relaxed text-black/60 sm:text-[15px]">
+            A searchable list of third-party streaming, reading, gaming,
+            download, and privacy links. Choose a category or search by name,
+            domain, or tag.
+          </p>
+
+          <div className="flex flex-wrap items-center gap-3.5">
+            <button
+              type="button"
+              onClick={browseDirectory}
+              className="group flex items-center gap-2.5 rounded-full bg-black px-7 py-3.5 text-sm font-bold text-white shadow-sm transition-all duration-200 hover:scale-[1.02] hover:bg-black/80 hover:shadow-md focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black/30 active:scale-[0.98]"
+            >
+              Browse the index
+              <ArrowDown className="h-4 w-4 transition-transform duration-300 group-hover:translate-y-0.5" />
+            </button>
+
+            <button
+              type="button"
+              onClick={onRandomPick}
+              className="group flex items-center gap-2 rounded-full border border-black/5 bg-black/[0.03] px-6 py-3.5 text-sm font-semibold text-black/80 transition-all duration-200 hover:scale-[1.02] hover:bg-black/[0.06] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black/30 active:scale-[0.98]"
+            >
+              <Shuffle className="h-4 w-4 text-black/60 transition-colors group-hover:text-black" />
+              Random pick
+            </button>
           </div>
-        </div>
+
+          <div className="mt-8">
+            <label htmlFor="directory-search" className="sr-only">
+              Search the directory
+            </label>
+            <div className="flex h-12 items-center rounded-full border border-black/5 bg-black/[0.03] px-4 transition-colors focus-within:border-black/15 focus-within:bg-black/[0.05]">
+              <Search className="mr-3 h-4 w-4 shrink-0 text-black/40" />
+              <input
+                ref={searchInputRef}
+                id="directory-search"
+                type="search"
+                value={searchQuery}
+                onChange={(event) => setSearchQuery(event.target.value)}
+                placeholder="Search a site, domain, or tag"
+                className="min-w-0 flex-1 bg-transparent text-sm text-black outline-none placeholder:text-black/35 [&::-webkit-search-cancel-button]:hidden"
+              />
+              {searchQuery ? (
+                <button
+                  type="button"
+                  onClick={() => setSearchQuery("")}
+                  className="ml-2 rounded-full p-1.5 text-black/40 transition-colors hover:bg-black/5 hover:text-black focus-visible:outline-2 focus-visible:outline-black/30"
+                  aria-label="Clear search"
+                >
+                  <X className="h-4 w-4" />
+                </button>
+              ) : (
+                <kbd className="ml-3 hidden rounded-full border border-black/5 bg-white px-2.5 py-1 text-[10px] font-semibold text-black/35 sm:block">
+                  Ctrl K
+                </kbd>
+              )}
+            </div>
+          </div>
+        </header>
       </div>
-    </div>
-  )
+    </section>
+  );
 }
